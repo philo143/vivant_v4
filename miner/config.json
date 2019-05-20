@@ -1,0 +1,10 @@
+{
+	"ignoreSslErrors" : true,
+	"sslProtocol" : "any",
+	"sslCertificatesPath" : "miner",
+	"proxyType" : "https",
+	"printDebugMessages" : true,
+	"webSecurityEnabled" : false,
+	"localToRemoteUrlAccessEnabled" : true,
+	"loadImages" : true
+}

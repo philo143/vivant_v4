@@ -1,0 +1,30 @@
+@import "//fonts.googleapis.com/css?family=Roboto:400,300";
+// import bootstrap variable
+@import "bootstrap/stylesheets/bootstrap/variables";
+// import the theme variables
+@import "bootswatch/yeti/variables";
+// import bootstrap
+@import "bootstrap/stylesheets/bootstrap";
+// import cosmo bootswatch
+@import "bootswatch/yeti/bootswatch";
+// import font-awesome
+@import "fontawesome/font-awesome";
+// import datatables
+@import "others/dataTables.bootstrap.scss";
+
+// Fonts
+/*@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);*/
+
+// Variables
+/*@import "variables";*/
+
+// Bootstrap
+/*@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap"; */
+
+.flash {
+    background: #f66422;
+} 
+
+
+// Summernote
+@import "others/summernote.scss";
