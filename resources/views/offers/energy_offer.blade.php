@@ -449,7 +449,7 @@
 			$.clearValues();
 		})
 		$('select[name="delivery_date"]').bind('change',function(){
-			// $.determineDisabled();
+			$.determineDisabled();
 		})
 		$('#submit_offer').bind('click', function(e){
 			e.preventDefault();		

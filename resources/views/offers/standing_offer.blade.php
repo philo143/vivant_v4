@@ -486,10 +486,10 @@
 			e.preventDefault();		
 			$.submitBids();
 		});
-		// $('#btn_retrieve').unbind('click').bind('click',function(e){
-		// 	e.preventDefault();	
-		// 	$.retrieveBids();		
-		// })
+		$('#btn_retrieve').unbind('click').bind('click',function(e){
+			e.preventDefault();	
+			$.retrieveBids();		
+		})
 		$('#check_all').bind('change', function(e){
 			var chk = $(this).is(':checked');
 			if(chk){
