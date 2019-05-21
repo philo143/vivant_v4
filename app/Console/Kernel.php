@@ -61,16 +61,16 @@ class Kernel extends ConsoleKernel
         $schedule->exec('env TZ="Asia/Manila" node_modules/phantomjs/bin/phantomjs --debug=true miner/status_checker.js '.Request::root())->everyMinute()->withoutOverlapping()->sendOutputTo(base_path()."/miner/status_checker.log");
 
         // MINERS //
-        // $participants = Participant::where('status','active')->whereNotNull('cert_file')->get()->toArray();
-        // $nmms_ip = IpTable::where(['status'=>'1','type'=>'mms'])->first()->toArray();
-        // foreach($participants as $p){
-        //     $name = $p['participant_name'];
-        //     $cert_pem   =   base_path().$p['cert_loc']."/".$p['cert_file'].'.pem';
-        //     $cert_key   =   base_path().$p['cert_loc']."/".$p['cert_file'].'.crt';
-        //     $cert_pass  =   $p['cert_user'].':'.$p['cert_pass'];
-        //     // ALL IN ONE MINER (RTD,LMP,SCHED DAP,SCHED HAP) args [IP] [participant] [cert_user:cert_pass]
-        //     $schedule->exec('env TZ="Asia/Manila" node_modules/phantomjs/bin/phantomjs --config=miner/config.json --ssl-client-certificate-file='.$cert_key.' --ssl-client-key-file='.$cert_pem.'  miner/nmms_miner.js '.$nmms_ip['ip_address'].' '.$name.' '.$cert_pass)->everyMinute()->withoutOverlapping()->sendOutputTo(base_path()."/miner/miner_".$name."_log.log");
-        // }
+        $participants = Participant::where('status','active')->whereNotNull('cert_file')->get()->toArray();
+        $nmms_ip = IpTable::where(['status'=>'1','type'=>'mms'])->first()->toArray();
+        foreach($participants as $p){
+            $name = $p['participant_name'];
+            $cert_pem   =   base_path().$p['cert_loc']."/".$p['cert_file'].'.pem';
+            $cert_key   =   base_path().$p['cert_loc']."/".$p['cert_file'].'.crt';
+            $cert_pass  =   $p['cert_user'].':'.$p['cert_pass'];
+            // ALL IN ONE MINER (RTD,LMP,SCHED DAP,SCHED HAP) args [IP] [participant] [cert_user:cert_pass]
+            $schedule->exec('env TZ="Asia/Manila" node_modules/phantomjs/bin/phantomjs --config=miner/config.json --ssl-client-certificate-file='.$cert_key.' --ssl-client-key-file='.$cert_pem.'  miner/nmms_miner.js '.$nmms_ip['ip_address'].' '.$name.' '.$cert_pass)->everyMinute()->withoutOverlapping()->sendOutputTo(base_path()."/miner/miner_".$name."_log.log");
+        }
 
         // PARSERS FOR NMMS
         $schedule->command('miner:get_files_mod')
