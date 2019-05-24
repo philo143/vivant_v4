@@ -17,7 +17,7 @@ class ResourceLookupTableSeeder extends Seeder
             0 => 
             array (
                 'id' => 1,
-                'resource_id' => '01AEC_L01',
+                'resource_id' => '1AEC_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -28,7 +28,7 @@ class ResourceLookupTableSeeder extends Seeder
             1 => 
             array (
                 'id' => 2,
-                'resource_id' => '01AMBUK_SS',
+                'resource_id' => '1AMBUK_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -39,7 +39,7 @@ class ResourceLookupTableSeeder extends Seeder
             2 => 
             array (
                 'id' => 3,
-                'resource_id' => '01AMBUK_T1L1',
+                'resource_id' => '1AMBUK_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -50,7 +50,7 @@ class ResourceLookupTableSeeder extends Seeder
             3 => 
             array (
                 'id' => 4,
-                'resource_id' => '01AMBUK_U01',
+                'resource_id' => '1AMBUK_U01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -61,7 +61,7 @@ class ResourceLookupTableSeeder extends Seeder
             4 => 
             array (
                 'id' => 5,
-                'resource_id' => '01AMBUK_U02',
+                'resource_id' => '1AMBUK_U02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -72,7 +72,7 @@ class ResourceLookupTableSeeder extends Seeder
             5 => 
             array (
                 'id' => 6,
-                'resource_id' => '01AMBUK_U03',
+                'resource_id' => '1AMBUK_U03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -83,7 +83,7 @@ class ResourceLookupTableSeeder extends Seeder
             6 => 
             array (
                 'id' => 7,
-                'resource_id' => '01ANDA_G01',
+                'resource_id' => '1ANDA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -94,7 +94,7 @@ class ResourceLookupTableSeeder extends Seeder
             7 => 
             array (
                 'id' => 8,
-                'resource_id' => '01ANGAT_A',
+                'resource_id' => '1ANGAT_A',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -105,7 +105,7 @@ class ResourceLookupTableSeeder extends Seeder
             8 => 
             array (
                 'id' => 9,
-                'resource_id' => '01ANGAT_M',
+                'resource_id' => '1ANGAT_M',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -116,7 +116,7 @@ class ResourceLookupTableSeeder extends Seeder
             9 => 
             array (
                 'id' => 10,
-                'resource_id' => '01ANGAT_SS',
+                'resource_id' => '1ANGAT_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -127,7 +127,7 @@ class ResourceLookupTableSeeder extends Seeder
             10 => 
             array (
                 'id' => 11,
-                'resource_id' => '01ANGAT_T5L1',
+                'resource_id' => '1ANGAT_T5L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -138,7 +138,7 @@ class ResourceLookupTableSeeder extends Seeder
             11 => 
             array (
                 'id' => 12,
-                'resource_id' => '01APEC_G01',
+                'resource_id' => '1APEC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -149,7 +149,7 @@ class ResourceLookupTableSeeder extends Seeder
             12 => 
             array (
                 'id' => 13,
-                'resource_id' => '01APEC_L01',
+                'resource_id' => '1APEC_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -160,7 +160,7 @@ class ResourceLookupTableSeeder extends Seeder
             13 => 
             array (
                 'id' => 14,
-                'resource_id' => '01ARMSOL_G01',
+                'resource_id' => '1ARMSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -171,7 +171,7 @@ class ResourceLookupTableSeeder extends Seeder
             14 => 
             array (
                 'id' => 15,
-                'resource_id' => '01BAKUN_G01',
+                'resource_id' => '1BAKUN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -182,7 +182,7 @@ class ResourceLookupTableSeeder extends Seeder
             15 => 
             array (
                 'id' => 16,
-                'resource_id' => '01BAKUN_SS',
+                'resource_id' => '1BAKUN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -193,7 +193,7 @@ class ResourceLookupTableSeeder extends Seeder
             16 => 
             array (
                 'id' => 17,
-                'resource_id' => '01BALNEO_L01',
+                'resource_id' => '1BALNEO_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -204,7 +204,7 @@ class ResourceLookupTableSeeder extends Seeder
             17 => 
             array (
                 'id' => 18,
-                'resource_id' => '01BANTAY_SS',
+                'resource_id' => '1BANTAY_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -215,7 +215,7 @@ class ResourceLookupTableSeeder extends Seeder
             18 => 
             array (
                 'id' => 19,
-                'resource_id' => '01BATAAN_SS',
+                'resource_id' => '1BATAAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -226,7 +226,7 @@ class ResourceLookupTableSeeder extends Seeder
             19 => 
             array (
                 'id' => 20,
-                'resource_id' => '01BAUANG_G01',
+                'resource_id' => '1BAUANG_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -237,7 +237,7 @@ class ResourceLookupTableSeeder extends Seeder
             20 => 
             array (
                 'id' => 21,
-                'resource_id' => '01BAUANG_SS',
+                'resource_id' => '1BAUANG_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -248,7 +248,7 @@ class ResourceLookupTableSeeder extends Seeder
             21 => 
             array (
                 'id' => 22,
-                'resource_id' => '01BAUAN_T1L1',
+                'resource_id' => '1BAUAN_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -259,7 +259,7 @@ class ResourceLookupTableSeeder extends Seeder
             22 => 
             array (
                 'id' => 23,
-                'resource_id' => '01BAUAN_T1L2',
+                'resource_id' => '1BAUAN_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -270,7 +270,7 @@ class ResourceLookupTableSeeder extends Seeder
             23 => 
             array (
                 'id' => 24,
-                'resource_id' => '01BAUAN_T1L3',
+                'resource_id' => '1BAUAN_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -281,7 +281,7 @@ class ResourceLookupTableSeeder extends Seeder
             24 => 
             array (
                 'id' => 25,
-                'resource_id' => '01BAUAN_T2L1',
+                'resource_id' => '1BAUAN_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -292,7 +292,7 @@ class ResourceLookupTableSeeder extends Seeder
             25 => 
             array (
                 'id' => 26,
-                'resource_id' => '01BAUAN_T2L2',
+                'resource_id' => '1BAUAN_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -303,7 +303,7 @@ class ResourceLookupTableSeeder extends Seeder
             26 => 
             array (
                 'id' => 27,
-                'resource_id' => '01BCNOT_SS',
+                'resource_id' => '1BCNOT_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -314,7 +314,7 @@ class ResourceLookupTableSeeder extends Seeder
             27 => 
             array (
                 'id' => 28,
-                'resource_id' => '01BCNOT_T1L1',
+                'resource_id' => '1BCNOT_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -325,7 +325,7 @@ class ResourceLookupTableSeeder extends Seeder
             28 => 
             array (
                 'id' => 29,
-                'resource_id' => '01BCNOT_T1L2',
+                'resource_id' => '1BCNOT_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -336,7 +336,7 @@ class ResourceLookupTableSeeder extends Seeder
             29 => 
             array (
                 'id' => 30,
-                'resource_id' => '01BINGA_SS',
+                'resource_id' => '1BINGA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -347,7 +347,7 @@ class ResourceLookupTableSeeder extends Seeder
             30 => 
             array (
                 'id' => 31,
-                'resource_id' => '01BINGA_T1L1',
+                'resource_id' => '1BINGA_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -358,7 +358,7 @@ class ResourceLookupTableSeeder extends Seeder
             31 => 
             array (
                 'id' => 32,
-                'resource_id' => '01BINGA_T3L1',
+                'resource_id' => '1BINGA_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -369,7 +369,7 @@ class ResourceLookupTableSeeder extends Seeder
             32 => 
             array (
                 'id' => 33,
-                'resource_id' => '01BINGA_U01',
+                'resource_id' => '1BINGA_U01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -380,7 +380,7 @@ class ResourceLookupTableSeeder extends Seeder
             33 => 
             array (
                 'id' => 34,
-                'resource_id' => '01BINGA_U02',
+                'resource_id' => '1BINGA_U02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -391,7 +391,7 @@ class ResourceLookupTableSeeder extends Seeder
             34 => 
             array (
                 'id' => 35,
-                'resource_id' => '01BINGA_U03',
+                'resource_id' => '1BINGA_U03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -402,7 +402,7 @@ class ResourceLookupTableSeeder extends Seeder
             35 => 
             array (
                 'id' => 36,
-                'resource_id' => '01BINGA_U04',
+                'resource_id' => '1BINGA_U04',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -413,7 +413,7 @@ class ResourceLookupTableSeeder extends Seeder
             36 => 
             array (
                 'id' => 37,
-                'resource_id' => '01BNTAY_T1L1',
+                'resource_id' => '1BNTAY_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -424,7 +424,7 @@ class ResourceLookupTableSeeder extends Seeder
             37 => 
             array (
                 'id' => 38,
-                'resource_id' => '01BNTAY_T1L2',
+                'resource_id' => '1BNTAY_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -435,7 +435,7 @@ class ResourceLookupTableSeeder extends Seeder
             38 => 
             array (
                 'id' => 39,
-                'resource_id' => '01BNTAY_T1L3',
+                'resource_id' => '1BNTAY_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -446,7 +446,7 @@ class ResourceLookupTableSeeder extends Seeder
             39 => 
             array (
                 'id' => 40,
-                'resource_id' => '01BOSUNG_G01',
+                'resource_id' => '1BOSUNG_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -457,7 +457,7 @@ class ResourceLookupTableSeeder extends Seeder
             40 => 
             array (
                 'id' => 41,
-                'resource_id' => '01BOTOLAN_SS',
+                'resource_id' => '1BOTOLAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -468,7 +468,7 @@ class ResourceLookupTableSeeder extends Seeder
             41 => 
             array (
                 'id' => 42,
-                'resource_id' => '01BOTOL_T1L1',
+                'resource_id' => '1BOTOL_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -479,7 +479,7 @@ class ResourceLookupTableSeeder extends Seeder
             42 => 
             array (
                 'id' => 43,
-                'resource_id' => '01BOTOL_T1L2',
+                'resource_id' => '1BOTOL_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -490,7 +490,7 @@ class ResourceLookupTableSeeder extends Seeder
             43 => 
             array (
                 'id' => 44,
-                'resource_id' => '01BPC_T1L1',
+                'resource_id' => '1BPC_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -501,7 +501,7 @@ class ResourceLookupTableSeeder extends Seeder
             44 => 
             array (
                 'id' => 45,
-                'resource_id' => '01BPC_T2L2',
+                'resource_id' => '1BPC_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -512,7 +512,7 @@ class ResourceLookupTableSeeder extends Seeder
             45 => 
             array (
                 'id' => 46,
-                'resource_id' => '01BPPC_SS',
+                'resource_id' => '1BPPC_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -523,7 +523,7 @@ class ResourceLookupTableSeeder extends Seeder
             46 => 
             array (
                 'id' => 47,
-                'resource_id' => '01BT2020_G01',
+                'resource_id' => '1BT2020_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -534,7 +534,7 @@ class ResourceLookupTableSeeder extends Seeder
             47 => 
             array (
                 'id' => 48,
-                'resource_id' => '01BTNSOL_G01',
+                'resource_id' => '1BTNSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -545,7 +545,7 @@ class ResourceLookupTableSeeder extends Seeder
             48 => 
             array (
                 'id' => 49,
-                'resource_id' => '01BTPP_T3L1',
+                'resource_id' => '1BTPP_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -556,7 +556,7 @@ class ResourceLookupTableSeeder extends Seeder
             49 => 
             array (
                 'id' => 50,
-                'resource_id' => '01BTPP_T3L2',
+                'resource_id' => '1BTPP_T3L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -567,7 +567,7 @@ class ResourceLookupTableSeeder extends Seeder
             50 => 
             array (
                 'id' => 51,
-                'resource_id' => '01BTPP_T3L3',
+                'resource_id' => '1BTPP_T3L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -578,7 +578,7 @@ class ResourceLookupTableSeeder extends Seeder
             51 => 
             array (
                 'id' => 52,
-                'resource_id' => '01BTPP_T3L4',
+                'resource_id' => '1BTPP_T3L4',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -589,7 +589,7 @@ class ResourceLookupTableSeeder extends Seeder
             52 => 
             array (
                 'id' => 53,
-                'resource_id' => '01BTPP_T3L5',
+                'resource_id' => '1BTPP_T3L5',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -600,7 +600,7 @@ class ResourceLookupTableSeeder extends Seeder
             53 => 
             array (
                 'id' => 54,
-                'resource_id' => '01BTPP_T4L1',
+                'resource_id' => '1BTPP_T4L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -611,7 +611,7 @@ class ResourceLookupTableSeeder extends Seeder
             54 => 
             array (
                 'id' => 55,
-                'resource_id' => '01BULSOL_G01',
+                'resource_id' => '1BULSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -622,7 +622,7 @@ class ResourceLookupTableSeeder extends Seeder
             55 => 
             array (
                 'id' => 56,
-                'resource_id' => '01BURGOS_G01',
+                'resource_id' => '1BURGOS_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -633,7 +633,7 @@ class ResourceLookupTableSeeder extends Seeder
             56 => 
             array (
                 'id' => 57,
-                'resource_id' => '01BURGOS_G02',
+                'resource_id' => '1BURGOS_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -644,7 +644,7 @@ class ResourceLookupTableSeeder extends Seeder
             57 => 
             array (
                 'id' => 58,
-                'resource_id' => '01BURGOS_G03',
+                'resource_id' => '1BURGOS_G03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -655,7 +655,7 @@ class ResourceLookupTableSeeder extends Seeder
             58 => 
             array (
                 'id' => 59,
-                'resource_id' => '01BURGOS_SS',
+                'resource_id' => '1BURGOS_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -666,7 +666,7 @@ class ResourceLookupTableSeeder extends Seeder
             59 => 
             array (
                 'id' => 60,
-                'resource_id' => '01BYOMB_SS',
+                'resource_id' => '1BYOMB_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -677,7 +677,7 @@ class ResourceLookupTableSeeder extends Seeder
             60 => 
             array (
                 'id' => 61,
-                'resource_id' => '01BYOMB_T1L1',
+                'resource_id' => '1BYOMB_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -688,7 +688,7 @@ class ResourceLookupTableSeeder extends Seeder
             61 => 
             array (
                 'id' => 62,
-                'resource_id' => '01BYOMB_T1L2',
+                'resource_id' => '1BYOMB_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -699,7 +699,7 @@ class ResourceLookupTableSeeder extends Seeder
             62 => 
             array (
                 'id' => 63,
-                'resource_id' => '01BYOMB_T1L3',
+                'resource_id' => '1BYOMB_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -710,7 +710,7 @@ class ResourceLookupTableSeeder extends Seeder
             63 => 
             array (
                 'id' => 64,
-                'resource_id' => '01CABSOL_G01',
+                'resource_id' => '1CABSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -721,7 +721,7 @@ class ResourceLookupTableSeeder extends Seeder
             64 => 
             array (
                 'id' => 65,
-                'resource_id' => '01CAPRIS_G01',
+                'resource_id' => '1CAPRIS_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -732,7 +732,7 @@ class ResourceLookupTableSeeder extends Seeder
             65 => 
             array (
                 'id' => 66,
-                'resource_id' => '01CASECN_G01',
+                'resource_id' => '1CASECN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -743,7 +743,7 @@ class ResourceLookupTableSeeder extends Seeder
             66 => 
             array (
                 'id' => 67,
-                'resource_id' => '01CASECN_SS',
+                'resource_id' => '1CASECN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -754,7 +754,7 @@ class ResourceLookupTableSeeder extends Seeder
             67 => 
             array (
                 'id' => 68,
-                'resource_id' => '01CBNTU_SS',
+                'resource_id' => '1CBNTU_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -765,7 +765,7 @@ class ResourceLookupTableSeeder extends Seeder
             68 => 
             array (
                 'id' => 69,
-                'resource_id' => '01CBNTU_T1L1',
+                'resource_id' => '1CBNTU_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -776,7 +776,7 @@ class ResourceLookupTableSeeder extends Seeder
             69 => 
             array (
                 'id' => 70,
-                'resource_id' => '01CBNTU_T1L3',
+                'resource_id' => '1CBNTU_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -787,7 +787,7 @@ class ResourceLookupTableSeeder extends Seeder
             70 => 
             array (
                 'id' => 71,
-                'resource_id' => '01CBNTU_T2L1',
+                'resource_id' => '1CBNTU_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -798,7 +798,7 @@ class ResourceLookupTableSeeder extends Seeder
             71 => 
             array (
                 'id' => 72,
-                'resource_id' => '01CBNTU_T2L2',
+                'resource_id' => '1CBNTU_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -809,7 +809,7 @@ class ResourceLookupTableSeeder extends Seeder
             72 => 
             array (
                 'id' => 73,
-                'resource_id' => '01CBN_CELCOR',
+                'resource_id' => '1CBN_CELCOR',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -820,7 +820,7 @@ class ResourceLookupTableSeeder extends Seeder
             73 => 
             array (
                 'id' => 74,
-                'resource_id' => '01CIP2_G01',
+                'resource_id' => '1CIP2_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -831,7 +831,7 @@ class ResourceLookupTableSeeder extends Seeder
             74 => 
             array (
                 'id' => 75,
-                'resource_id' => '01CLARK_L01',
+                'resource_id' => '1CLARK_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -842,7 +842,7 @@ class ResourceLookupTableSeeder extends Seeder
             75 => 
             array (
                 'id' => 76,
-                'resource_id' => '01CLARK_L02',
+                'resource_id' => '1CLARK_L02',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -853,7 +853,7 @@ class ResourceLookupTableSeeder extends Seeder
             76 => 
             array (
                 'id' => 77,
-                'resource_id' => '01CLARK_L03',
+                'resource_id' => '1CLARK_L03',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -864,7 +864,7 @@ class ResourceLookupTableSeeder extends Seeder
             77 => 
             array (
                 'id' => 78,
-                'resource_id' => '01CLARK_SS',
+                'resource_id' => '1CLARK_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -875,7 +875,7 @@ class ResourceLookupTableSeeder extends Seeder
             78 => 
             array (
                 'id' => 79,
-                'resource_id' => '01CLARK_T1L1',
+                'resource_id' => '1CLARK_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -886,7 +886,7 @@ class ResourceLookupTableSeeder extends Seeder
             79 => 
             array (
                 'id' => 80,
-                'resource_id' => '01CLARK_T1L2',
+                'resource_id' => '1CLARK_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -897,7 +897,7 @@ class ResourceLookupTableSeeder extends Seeder
             80 => 
             array (
                 'id' => 81,
-                'resource_id' => '01CLASOL_G01',
+                'resource_id' => '1CLASOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -908,7 +908,7 @@ class ResourceLookupTableSeeder extends Seeder
             81 => 
             array (
                 'id' => 82,
-                'resource_id' => '01CNCEP_CAT',
+                'resource_id' => '1CNCEP_CAT',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -919,7 +919,7 @@ class ResourceLookupTableSeeder extends Seeder
             82 => 
             array (
                 'id' => 83,
-                'resource_id' => '01CNCEP_DAP2',
+                'resource_id' => '1CNCEP_DAP2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -930,7 +930,7 @@ class ResourceLookupTableSeeder extends Seeder
             83 => 
             array (
                 'id' => 84,
-                'resource_id' => '01CNCEP_SS',
+                'resource_id' => '1CNCEP_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -941,7 +941,7 @@ class ResourceLookupTableSeeder extends Seeder
             84 => 
             array (
                 'id' => 85,
-                'resource_id' => '01CNCEP_T1L3',
+                'resource_id' => '1CNCEP_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -952,7 +952,7 @@ class ResourceLookupTableSeeder extends Seeder
             85 => 
             array (
                 'id' => 86,
-                'resource_id' => '01CNCEP_TEI',
+                'resource_id' => '1CNCEP_TEI',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -963,7 +963,7 @@ class ResourceLookupTableSeeder extends Seeder
             86 => 
             array (
                 'id' => 87,
-                'resource_id' => '01CN_TRELC1',
+                'resource_id' => '1CN_TRELC1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -974,7 +974,7 @@ class ResourceLookupTableSeeder extends Seeder
             87 => 
             array (
                 'id' => 88,
-                'resource_id' => '01CN_TRELC2',
+                'resource_id' => '1CN_TRELC2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -985,7 +985,7 @@ class ResourceLookupTableSeeder extends Seeder
             88 => 
             array (
                 'id' => 89,
-                'resource_id' => '01CRUZD_MECO',
+                'resource_id' => '1CRUZD_MECO',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -996,7 +996,7 @@ class ResourceLookupTableSeeder extends Seeder
             89 => 
             array (
                 'id' => 90,
-                'resource_id' => '01CRUZD_SS',
+                'resource_id' => '1CRUZD_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1007,7 +1007,7 @@ class ResourceLookupTableSeeder extends Seeder
             90 => 
             array (
                 'id' => 91,
-                'resource_id' => '01CRUZD_T2L1',
+                'resource_id' => '1CRUZD_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1018,7 +1018,7 @@ class ResourceLookupTableSeeder extends Seeder
             91 => 
             array (
                 'id' => 92,
-                'resource_id' => '01CURIM_SS',
+                'resource_id' => '1CURIM_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1029,7 +1029,7 @@ class ResourceLookupTableSeeder extends Seeder
             92 => 
             array (
                 'id' => 93,
-                'resource_id' => '01CURIM_T1L1',
+                'resource_id' => '1CURIM_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1040,7 +1040,7 @@ class ResourceLookupTableSeeder extends Seeder
             93 => 
             array (
                 'id' => 94,
-                'resource_id' => '01CURIM_T1L2',
+                'resource_id' => '1CURIM_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1051,7 +1051,7 @@ class ResourceLookupTableSeeder extends Seeder
             94 => 
             array (
                 'id' => 95,
-                'resource_id' => '01DALSOL_G01',
+                'resource_id' => '1DALSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1062,7 +1062,7 @@ class ResourceLookupTableSeeder extends Seeder
             95 => 
             array (
                 'id' => 96,
-                'resource_id' => '01DUHAT_SS',
+                'resource_id' => '1DUHAT_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1073,7 +1073,7 @@ class ResourceLookupTableSeeder extends Seeder
             96 => 
             array (
                 'id' => 97,
-                'resource_id' => '01DUHAT_T1L1',
+                'resource_id' => '1DUHAT_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1084,7 +1084,7 @@ class ResourceLookupTableSeeder extends Seeder
             97 => 
             array (
                 'id' => 98,
-                'resource_id' => '01EHVSJ_SS',
+                'resource_id' => '1EHVSJ_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1095,7 +1095,7 @@ class ResourceLookupTableSeeder extends Seeder
             98 => 
             array (
                 'id' => 99,
-                'resource_id' => '01EHVSM_SS',
+                'resource_id' => '1EHVSM_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1106,7 +1106,7 @@ class ResourceLookupTableSeeder extends Seeder
             99 => 
             array (
                 'id' => 100,
-                'resource_id' => '01GAMU_SS',
+                'resource_id' => '1GAMU_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1117,7 +1117,7 @@ class ResourceLookupTableSeeder extends Seeder
             100 => 
             array (
                 'id' => 101,
-                'resource_id' => '01GAMU_T1L1',
+                'resource_id' => '1GAMU_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1128,7 +1128,7 @@ class ResourceLookupTableSeeder extends Seeder
             101 => 
             array (
                 'id' => 102,
-                'resource_id' => '01GAMU_T1L2',
+                'resource_id' => '1GAMU_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1139,7 +1139,7 @@ class ResourceLookupTableSeeder extends Seeder
             102 => 
             array (
                 'id' => 103,
-                'resource_id' => '01GFII_G01',
+                'resource_id' => '1GFII_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1150,7 +1150,7 @@ class ResourceLookupTableSeeder extends Seeder
             103 => 
             array (
                 'id' => 104,
-                'resource_id' => '01GIFT_G01',
+                'resource_id' => '1GIFT_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1161,7 +1161,7 @@ class ResourceLookupTableSeeder extends Seeder
             104 => 
             array (
                 'id' => 105,
-                'resource_id' => '01HANJI_SS',
+                'resource_id' => '1HANJI_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1172,7 +1172,7 @@ class ResourceLookupTableSeeder extends Seeder
             105 => 
             array (
                 'id' => 106,
-                'resource_id' => '01HANJI_T1L1',
+                'resource_id' => '1HANJI_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1183,7 +1183,7 @@ class ResourceLookupTableSeeder extends Seeder
             106 => 
             array (
                 'id' => 107,
-                'resource_id' => '01HANJI_T2L1',
+                'resource_id' => '1HANJI_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1194,7 +1194,7 @@ class ResourceLookupTableSeeder extends Seeder
             107 => 
             array (
                 'id' => 108,
-                'resource_id' => '01HEDCOR_G01',
+                'resource_id' => '1HEDCOR_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1205,7 +1205,7 @@ class ResourceLookupTableSeeder extends Seeder
             108 => 
             array (
                 'id' => 109,
-                'resource_id' => '01HERMO_SS',
+                'resource_id' => '1HERMO_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1216,7 +1216,7 @@ class ResourceLookupTableSeeder extends Seeder
             109 => 
             array (
                 'id' => 110,
-                'resource_id' => '01HERMO_T1L1',
+                'resource_id' => '1HERMO_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1227,7 +1227,7 @@ class ResourceLookupTableSeeder extends Seeder
             110 => 
             array (
                 'id' => 111,
-                'resource_id' => '01HERMO_T1L2',
+                'resource_id' => '1HERMO_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1238,7 +1238,7 @@ class ResourceLookupTableSeeder extends Seeder
             111 => 
             array (
                 'id' => 112,
-                'resource_id' => '01HERMO_T1L3',
+                'resource_id' => '1HERMO_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1249,7 +1249,7 @@ class ResourceLookupTableSeeder extends Seeder
             112 => 
             array (
                 'id' => 113,
-                'resource_id' => '01HERMO_T1L4',
+                'resource_id' => '1HERMO_T1L4',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1260,7 +1260,7 @@ class ResourceLookupTableSeeder extends Seeder
             113 => 
             array (
                 'id' => 114,
-                'resource_id' => '01IBEC_G01',
+                'resource_id' => '1IBEC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1271,7 +1271,7 @@ class ResourceLookupTableSeeder extends Seeder
             114 => 
             array (
                 'id' => 115,
-                'resource_id' => '01IPOWER_G01',
+                'resource_id' => '1IPOWER_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1282,7 +1282,7 @@ class ResourceLookupTableSeeder extends Seeder
             115 => 
             array (
                 'id' => 116,
-                'resource_id' => '01KDAM_SS',
+                'resource_id' => '1KDAM_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1293,7 +1293,7 @@ class ResourceLookupTableSeeder extends Seeder
             116 => 
             array (
                 'id' => 117,
-                'resource_id' => '01LAMAO_SS',
+                'resource_id' => '1LAMAO_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1304,7 +1304,7 @@ class ResourceLookupTableSeeder extends Seeder
             117 => 
             array (
                 'id' => 118,
-                'resource_id' => '01LAOAG_SS',
+                'resource_id' => '1LAOAG_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1315,7 +1315,7 @@ class ResourceLookupTableSeeder extends Seeder
             118 => 
             array (
                 'id' => 119,
-                'resource_id' => '01LAOAG_T1L1',
+                'resource_id' => '1LAOAG_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1326,7 +1326,7 @@ class ResourceLookupTableSeeder extends Seeder
             119 => 
             array (
                 'id' => 120,
-                'resource_id' => '01LAOAG_T1L2',
+                'resource_id' => '1LAOAG_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1337,7 +1337,7 @@ class ResourceLookupTableSeeder extends Seeder
             120 => 
             array (
                 'id' => 121,
-                'resource_id' => '01LAOAG_T2L2',
+                'resource_id' => '1LAOAG_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1348,7 +1348,7 @@ class ResourceLookupTableSeeder extends Seeder
             121 => 
             array (
                 'id' => 122,
-                'resource_id' => '01LATRI_SS',
+                'resource_id' => '1LATRI_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1359,7 +1359,7 @@ class ResourceLookupTableSeeder extends Seeder
             122 => 
             array (
                 'id' => 123,
-                'resource_id' => '01LATRI_T1L1',
+                'resource_id' => '1LATRI_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1370,7 +1370,7 @@ class ResourceLookupTableSeeder extends Seeder
             123 => 
             array (
                 'id' => 124,
-                'resource_id' => '01LATRI_T2L1',
+                'resource_id' => '1LATRI_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1381,7 +1381,7 @@ class ResourceLookupTableSeeder extends Seeder
             124 => 
             array (
                 'id' => 125,
-                'resource_id' => '01LATRI_T2L2',
+                'resource_id' => '1LATRI_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1392,7 +1392,7 @@ class ResourceLookupTableSeeder extends Seeder
             125 => 
             array (
                 'id' => 126,
-                'resource_id' => '01LATRI_T2L3',
+                'resource_id' => '1LATRI_T2L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1403,7 +1403,7 @@ class ResourceLookupTableSeeder extends Seeder
             126 => 
             array (
                 'id' => 127,
-                'resource_id' => '01LAT_BENECO',
+                'resource_id' => '1LAT_BENECO',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1414,7 +1414,7 @@ class ResourceLookupTableSeeder extends Seeder
             127 => 
             array (
                 'id' => 128,
-                'resource_id' => '01LAT_PHILEX',
+                'resource_id' => '1LAT_PHILEX',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1425,7 +1425,7 @@ class ResourceLookupTableSeeder extends Seeder
             128 => 
             array (
                 'id' => 129,
-                'resource_id' => '01LBRDR_SS',
+                'resource_id' => '1LBRDR_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1436,7 +1436,7 @@ class ResourceLookupTableSeeder extends Seeder
             129 => 
             array (
                 'id' => 130,
-                'resource_id' => '01LBR_CNPELC',
+                'resource_id' => '1LBR_CNPELC',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1447,7 +1447,7 @@ class ResourceLookupTableSeeder extends Seeder
             130 => 
             array (
                 'id' => 131,
-                'resource_id' => '01LBR_DECORP',
+                'resource_id' => '1LBR_DECORP',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1458,7 +1458,7 @@ class ResourceLookupTableSeeder extends Seeder
             131 => 
             array (
                 'id' => 132,
-                'resource_id' => '01LBR_PNELC1',
+                'resource_id' => '1LBR_PNELC1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1469,7 +1469,7 @@ class ResourceLookupTableSeeder extends Seeder
             132 => 
             array (
                 'id' => 133,
-                'resource_id' => '01LIMAY_A',
+                'resource_id' => '1LIMAY_A',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -1480,7 +1480,7 @@ class ResourceLookupTableSeeder extends Seeder
             133 => 
             array (
                 'id' => 134,
-                'resource_id' => '01LIMAY_B',
+                'resource_id' => '1LIMAY_B',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -1491,7 +1491,7 @@ class ResourceLookupTableSeeder extends Seeder
             134 => 
             array (
                 'id' => 135,
-                'resource_id' => '01LIMAY_SS',
+                'resource_id' => '1LIMAY_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1502,7 +1502,7 @@ class ResourceLookupTableSeeder extends Seeder
             135 => 
             array (
                 'id' => 136,
-                'resource_id' => '01MAEC_G01',
+                'resource_id' => '1MAEC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1513,7 +1513,7 @@ class ResourceLookupTableSeeder extends Seeder
             136 => 
             array (
                 'id' => 137,
-                'resource_id' => '01MAEC_S01',
+                'resource_id' => '1MAEC_S01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1524,7 +1524,7 @@ class ResourceLookupTableSeeder extends Seeder
             137 => 
             array (
                 'id' => 138,
-                'resource_id' => '01MAGAT_SS',
+                'resource_id' => '1MAGAT_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1535,7 +1535,7 @@ class ResourceLookupTableSeeder extends Seeder
             138 => 
             array (
                 'id' => 139,
-                'resource_id' => '01MAGAT_U01',
+                'resource_id' => '1MAGAT_U01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -1546,7 +1546,7 @@ class ResourceLookupTableSeeder extends Seeder
             139 => 
             array (
                 'id' => 140,
-                'resource_id' => '01MAGAT_U02',
+                'resource_id' => '1MAGAT_U02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -1557,7 +1557,7 @@ class ResourceLookupTableSeeder extends Seeder
             140 => 
             array (
                 'id' => 141,
-                'resource_id' => '01MAGAT_U03',
+                'resource_id' => '1MAGAT_U03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -1568,7 +1568,7 @@ class ResourceLookupTableSeeder extends Seeder
             141 => 
             array (
                 'id' => 142,
-                'resource_id' => '01MAGAT_U04',
+                'resource_id' => '1MAGAT_U04',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -1579,7 +1579,7 @@ class ResourceLookupTableSeeder extends Seeder
             142 => 
             array (
                 'id' => 143,
-                'resource_id' => '01MALOL_SS',
+                'resource_id' => '1MALOL_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1590,7 +1590,7 @@ class ResourceLookupTableSeeder extends Seeder
             143 => 
             array (
                 'id' => 144,
-                'resource_id' => '01MALOL_T1L1',
+                'resource_id' => '1MALOL_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1601,7 +1601,7 @@ class ResourceLookupTableSeeder extends Seeder
             144 => 
             array (
                 'id' => 145,
-                'resource_id' => '01MARSOL_G01',
+                'resource_id' => '1MARSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1612,7 +1612,7 @@ class ResourceLookupTableSeeder extends Seeder
             145 => 
             array (
                 'id' => 146,
-                'resource_id' => '01MARVEL_G01',
+                'resource_id' => '1MARVEL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1623,7 +1623,7 @@ class ResourceLookupTableSeeder extends Seeder
             146 => 
             array (
                 'id' => 147,
-                'resource_id' => '01MARVEL_G02',
+                'resource_id' => '1MARVEL_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1634,7 +1634,7 @@ class ResourceLookupTableSeeder extends Seeder
             147 => 
             array (
                 'id' => 148,
-                'resource_id' => '01MARVEL_SS',
+                'resource_id' => '1MARVEL_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1645,7 +1645,7 @@ class ResourceLookupTableSeeder extends Seeder
             148 => 
             array (
                 'id' => 149,
-                'resource_id' => '01MASIWA_G01',
+                'resource_id' => '1MASIWA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1656,7 +1656,7 @@ class ResourceLookupTableSeeder extends Seeder
             149 => 
             array (
                 'id' => 150,
-                'resource_id' => '01MASIWA_SS',
+                'resource_id' => '1MASIWA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1667,7 +1667,7 @@ class ResourceLookupTableSeeder extends Seeder
             150 => 
             array (
                 'id' => 151,
-                'resource_id' => '01MEXICO_SS',
+                'resource_id' => '1MEXICO_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1678,7 +1678,7 @@ class ResourceLookupTableSeeder extends Seeder
             151 => 
             array (
                 'id' => 152,
-                'resource_id' => '01MEX_AEC',
+                'resource_id' => '1MEX_AEC',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1689,7 +1689,7 @@ class ResourceLookupTableSeeder extends Seeder
             152 => 
             array (
                 'id' => 153,
-                'resource_id' => '01MEX_CISP',
+                'resource_id' => '1MEX_CISP',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1700,7 +1700,7 @@ class ResourceLookupTableSeeder extends Seeder
             153 => 
             array (
                 'id' => 154,
-                'resource_id' => '01MEX_CLARK1',
+                'resource_id' => '1MEX_CLARK1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1711,7 +1711,7 @@ class ResourceLookupTableSeeder extends Seeder
             154 => 
             array (
                 'id' => 155,
-                'resource_id' => '01MEX_CLARK2',
+                'resource_id' => '1MEX_CLARK2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1722,7 +1722,7 @@ class ResourceLookupTableSeeder extends Seeder
             155 => 
             array (
                 'id' => 156,
-                'resource_id' => '01MEX_CND',
+                'resource_id' => '1MEX_CND',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1733,7 +1733,7 @@ class ResourceLookupTableSeeder extends Seeder
             156 => 
             array (
                 'id' => 157,
-                'resource_id' => '01MEX_L01',
+                'resource_id' => '1MEX_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1744,7 +1744,7 @@ class ResourceLookupTableSeeder extends Seeder
             157 => 
             array (
                 'id' => 158,
-                'resource_id' => '01MEX_MIC',
+                'resource_id' => '1MEX_MIC',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1755,7 +1755,7 @@ class ResourceLookupTableSeeder extends Seeder
             158 => 
             array (
                 'id' => 159,
-                'resource_id' => '01MEX_PELCO1',
+                'resource_id' => '1MEX_PELCO1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1766,7 +1766,7 @@ class ResourceLookupTableSeeder extends Seeder
             159 => 
             array (
                 'id' => 160,
-                'resource_id' => '01MEX_PIMP',
+                'resource_id' => '1MEX_PIMP',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1777,7 +1777,7 @@ class ResourceLookupTableSeeder extends Seeder
             160 => 
             array (
                 'id' => 161,
-                'resource_id' => '01MEX_SFLAPC',
+                'resource_id' => '1MEX_SFLAPC',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1788,7 +1788,7 @@ class ResourceLookupTableSeeder extends Seeder
             161 => 
             array (
                 'id' => 162,
-                'resource_id' => '01MEX_SKK',
+                'resource_id' => '1MEX_SKK',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1799,7 +1799,7 @@ class ResourceLookupTableSeeder extends Seeder
             162 => 
             array (
                 'id' => 163,
-                'resource_id' => '01MRVEL_T1L1',
+                'resource_id' => '1MRVEL_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1810,7 +1810,7 @@ class ResourceLookupTableSeeder extends Seeder
             163 => 
             array (
                 'id' => 164,
-                'resource_id' => '01MSINLO_G01',
+                'resource_id' => '1MSINLO_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1821,7 +1821,7 @@ class ResourceLookupTableSeeder extends Seeder
             164 => 
             array (
                 'id' => 165,
-                'resource_id' => '01MSINLO_G02',
+                'resource_id' => '1MSINLO_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1832,7 +1832,7 @@ class ResourceLookupTableSeeder extends Seeder
             165 => 
             array (
                 'id' => 166,
-                'resource_id' => '01MSINLO_SS',
+                'resource_id' => '1MSINLO_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1843,7 +1843,7 @@ class ResourceLookupTableSeeder extends Seeder
             166 => 
             array (
                 'id' => 167,
-                'resource_id' => '01MSNLO_BATC',
+                'resource_id' => '1MSNLO_BATC',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1854,7 +1854,7 @@ class ResourceLookupTableSeeder extends Seeder
             167 => 
             array (
                 'id' => 168,
-                'resource_id' => '01MSNLO_BATG',
+                'resource_id' => '1MSNLO_BATG',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1865,7 +1865,7 @@ class ResourceLookupTableSeeder extends Seeder
             168 => 
             array (
                 'id' => 169,
-                'resource_id' => '01NIABAL_G01',
+                'resource_id' => '1NIABAL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1876,7 +1876,7 @@ class ResourceLookupTableSeeder extends Seeder
             169 => 
             array (
                 'id' => 170,
-                'resource_id' => '01NMHC_G01',
+                'resource_id' => '1NMHC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1887,7 +1887,7 @@ class ResourceLookupTableSeeder extends Seeder
             170 => 
             array (
                 'id' => 171,
-                'resource_id' => '01NMHC_G03',
+                'resource_id' => '1NMHC_G03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1898,7 +1898,7 @@ class ResourceLookupTableSeeder extends Seeder
             171 => 
             array (
                 'id' => 172,
-                'resource_id' => '01NSNMN_L01',
+                'resource_id' => '1NSNMN_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1909,7 +1909,7 @@ class ResourceLookupTableSeeder extends Seeder
             172 => 
             array (
                 'id' => 173,
-                'resource_id' => '01NSNMN_L02',
+                'resource_id' => '1NSNMN_L02',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1920,7 +1920,7 @@ class ResourceLookupTableSeeder extends Seeder
             173 => 
             array (
                 'id' => 174,
-                'resource_id' => '01NSNMN_SS',
+                'resource_id' => '1NSNMN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1931,7 +1931,7 @@ class ResourceLookupTableSeeder extends Seeder
             174 => 
             array (
                 'id' => 175,
-                'resource_id' => '01NSNMN_T1L1',
+                'resource_id' => '1NSNMN_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1942,7 +1942,7 @@ class ResourceLookupTableSeeder extends Seeder
             175 => 
             array (
                 'id' => 176,
-                'resource_id' => '01NWIND_G01',
+                'resource_id' => '1NWIND_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1953,7 +1953,7 @@ class ResourceLookupTableSeeder extends Seeder
             176 => 
             array (
                 'id' => 177,
-                'resource_id' => '01NWIND_G02',
+                'resource_id' => '1NWIND_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -1964,7 +1964,7 @@ class ResourceLookupTableSeeder extends Seeder
             177 => 
             array (
                 'id' => 178,
-                'resource_id' => '01NWIND_L01',
+                'resource_id' => '1NWIND_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1975,7 +1975,7 @@ class ResourceLookupTableSeeder extends Seeder
             178 => 
             array (
                 'id' => 179,
-                'resource_id' => '01OLONG_SS',
+                'resource_id' => '1OLONG_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1986,7 +1986,7 @@ class ResourceLookupTableSeeder extends Seeder
             179 => 
             array (
                 'id' => 180,
-                'resource_id' => '01OLONG_T1L1',
+                'resource_id' => '1OLONG_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -1997,7 +1997,7 @@ class ResourceLookupTableSeeder extends Seeder
             180 => 
             array (
                 'id' => 181,
-                'resource_id' => '01OLONG_T2L2',
+                'resource_id' => '1OLONG_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2008,7 +2008,7 @@ class ResourceLookupTableSeeder extends Seeder
             181 => 
             array (
                 'id' => 182,
-                'resource_id' => '01OLONG_T3L3',
+                'resource_id' => '1OLONG_T3L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2019,7 +2019,7 @@ class ResourceLookupTableSeeder extends Seeder
             182 => 
             array (
                 'id' => 183,
-                'resource_id' => '01PAGUD_SS',
+                'resource_id' => '1PAGUD_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2030,7 +2030,7 @@ class ResourceLookupTableSeeder extends Seeder
             183 => 
             array (
                 'id' => 184,
-                'resource_id' => '01PETRON_G01',
+                'resource_id' => '1PETRON_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2041,7 +2041,7 @@ class ResourceLookupTableSeeder extends Seeder
             184 => 
             array (
                 'id' => 185,
-                'resource_id' => '01PETSOL_G01',
+                'resource_id' => '1PETSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2052,7 +2052,7 @@ class ResourceLookupTableSeeder extends Seeder
             185 => 
             array (
                 'id' => 186,
-                'resource_id' => '01PNTBNG_SS',
+                'resource_id' => '1PNTBNG_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2063,7 +2063,7 @@ class ResourceLookupTableSeeder extends Seeder
             186 => 
             array (
                 'id' => 187,
-                'resource_id' => '01PNTBNG_U01',
+                'resource_id' => '1PNTBNG_U01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2074,7 +2074,7 @@ class ResourceLookupTableSeeder extends Seeder
             187 => 
             array (
                 'id' => 188,
-                'resource_id' => '01PNTBNG_U02',
+                'resource_id' => '1PNTBNG_U02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2085,7 +2085,7 @@ class ResourceLookupTableSeeder extends Seeder
             188 => 
             array (
                 'id' => 189,
-                'resource_id' => '01RASLAG_G01',
+                'resource_id' => '1RASLAG_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2096,7 +2096,7 @@ class ResourceLookupTableSeeder extends Seeder
             189 => 
             array (
                 'id' => 190,
-                'resource_id' => '01RASLAG_G02',
+                'resource_id' => '1RASLAG_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2107,7 +2107,7 @@ class ResourceLookupTableSeeder extends Seeder
             190 => 
             array (
                 'id' => 191,
-                'resource_id' => '01SABANG_G01',
+                'resource_id' => '1SABANG_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2118,7 +2118,7 @@ class ResourceLookupTableSeeder extends Seeder
             191 => 
             array (
                 'id' => 192,
-                'resource_id' => '01SANMAN_L01',
+                'resource_id' => '1SANMAN_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2129,7 +2129,7 @@ class ResourceLookupTableSeeder extends Seeder
             192 => 
             array (
                 'id' => 193,
-                'resource_id' => '01SE_ABRECO',
+                'resource_id' => '1SE_ABRECO',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2140,7 +2140,7 @@ class ResourceLookupTableSeeder extends Seeder
             193 => 
             array (
                 'id' => 194,
-                'resource_id' => '01SLANGN_G01',
+                'resource_id' => '1SLANGN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2151,7 +2151,7 @@ class ResourceLookupTableSeeder extends Seeder
             194 => 
             array (
                 'id' => 195,
-                'resource_id' => '01SMBELL_G01',
+                'resource_id' => '1SMBELL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2162,7 +2162,7 @@ class ResourceLookupTableSeeder extends Seeder
             195 => 
             array (
                 'id' => 196,
-                'resource_id' => '01SMC_G01',
+                'resource_id' => '1SMC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2173,7 +2173,7 @@ class ResourceLookupTableSeeder extends Seeder
             196 => 
             array (
                 'id' => 197,
-                'resource_id' => '01SMC_G02',
+                'resource_id' => '1SMC_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2184,7 +2184,7 @@ class ResourceLookupTableSeeder extends Seeder
             197 => 
             array (
                 'id' => 198,
-                'resource_id' => '01SMC_SS',
+                'resource_id' => '1SMC_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2195,7 +2195,7 @@ class ResourceLookupTableSeeder extends Seeder
             198 => 
             array (
                 'id' => 199,
-                'resource_id' => '01SMC_SS2',
+                'resource_id' => '1SMC_SS2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2206,7 +2206,7 @@ class ResourceLookupTableSeeder extends Seeder
             199 => 
             array (
                 'id' => 200,
-                'resource_id' => '01SNEST_SS',
+                'resource_id' => '1SNEST_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2217,7 +2217,7 @@ class ResourceLookupTableSeeder extends Seeder
             200 => 
             array (
                 'id' => 201,
-                'resource_id' => '01SNEST_T3L1',
+                'resource_id' => '1SNEST_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2228,7 +2228,7 @@ class ResourceLookupTableSeeder extends Seeder
             201 => 
             array (
                 'id' => 202,
-                'resource_id' => '01SNEST_T3L2',
+                'resource_id' => '1SNEST_T3L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2239,7 +2239,7 @@ class ResourceLookupTableSeeder extends Seeder
             202 => 
             array (
                 'id' => 203,
-                'resource_id' => '01SNJOSE_SS',
+                'resource_id' => '1SNJOSE_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2250,7 +2250,7 @@ class ResourceLookupTableSeeder extends Seeder
             203 => 
             array (
                 'id' => 204,
-                'resource_id' => '01SNJOS_T1L1',
+                'resource_id' => '1SNJOS_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2261,7 +2261,7 @@ class ResourceLookupTableSeeder extends Seeder
             204 => 
             array (
                 'id' => 205,
-                'resource_id' => '01SNJOS_T1L2',
+                'resource_id' => '1SNJOS_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2272,7 +2272,7 @@ class ResourceLookupTableSeeder extends Seeder
             205 => 
             array (
                 'id' => 206,
-                'resource_id' => '01SNJOS_T1L3',
+                'resource_id' => '1SNJOS_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2283,7 +2283,7 @@ class ResourceLookupTableSeeder extends Seeder
             206 => 
             array (
                 'id' => 207,
-                'resource_id' => '01SNJOS_T2L2',
+                'resource_id' => '1SNJOS_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2294,7 +2294,7 @@ class ResourceLookupTableSeeder extends Seeder
             207 => 
             array (
                 'id' => 208,
-                'resource_id' => '01SNMAN_SS',
+                'resource_id' => '1SNMAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2305,7 +2305,7 @@ class ResourceLookupTableSeeder extends Seeder
             208 => 
             array (
                 'id' => 209,
-                'resource_id' => '01SNMAN_T1L2',
+                'resource_id' => '1SNMAN_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2316,7 +2316,7 @@ class ResourceLookupTableSeeder extends Seeder
             209 => 
             array (
                 'id' => 210,
-                'resource_id' => '01SNM_PNELC3',
+                'resource_id' => '1SNM_PNELC3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2327,7 +2327,7 @@ class ResourceLookupTableSeeder extends Seeder
             210 => 
             array (
                 'id' => 211,
-                'resource_id' => '01SNTGO_SS',
+                'resource_id' => '1SNTGO_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2338,7 +2338,7 @@ class ResourceLookupTableSeeder extends Seeder
             211 => 
             array (
                 'id' => 212,
-                'resource_id' => '01SNTGO_T1L1',
+                'resource_id' => '1SNTGO_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2349,7 +2349,7 @@ class ResourceLookupTableSeeder extends Seeder
             212 => 
             array (
                 'id' => 213,
-                'resource_id' => '01SNTGO_T1L2',
+                'resource_id' => '1SNTGO_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2360,7 +2360,7 @@ class ResourceLookupTableSeeder extends Seeder
             213 => 
             array (
                 'id' => 214,
-                'resource_id' => '01SNTGO_T1L3',
+                'resource_id' => '1SNTGO_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2371,7 +2371,7 @@ class ResourceLookupTableSeeder extends Seeder
             214 => 
             array (
                 'id' => 215,
-                'resource_id' => '01SNTGO_T2L2',
+                'resource_id' => '1SNTGO_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2382,7 +2382,7 @@ class ResourceLookupTableSeeder extends Seeder
             215 => 
             array (
                 'id' => 216,
-                'resource_id' => '01SPABUL_G01',
+                'resource_id' => '1SPABUL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2393,7 +2393,7 @@ class ResourceLookupTableSeeder extends Seeder
             216 => 
             array (
                 'id' => 217,
-                'resource_id' => '01SROQUE_SS',
+                'resource_id' => '1SROQUE_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2404,7 +2404,7 @@ class ResourceLookupTableSeeder extends Seeder
             217 => 
             array (
                 'id' => 218,
-                'resource_id' => '01SROQUE_U01',
+                'resource_id' => '1SROQUE_U01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2415,7 +2415,7 @@ class ResourceLookupTableSeeder extends Seeder
             218 => 
             array (
                 'id' => 219,
-                'resource_id' => '01SROQUE_U02',
+                'resource_id' => '1SROQUE_U02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2426,7 +2426,7 @@ class ResourceLookupTableSeeder extends Seeder
             219 => 
             array (
                 'id' => 220,
-                'resource_id' => '01SROQUE_U03',
+                'resource_id' => '1SROQUE_U03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2437,7 +2437,7 @@ class ResourceLookupTableSeeder extends Seeder
             220 => 
             array (
                 'id' => 221,
-                'resource_id' => '01SUAL_G01',
+                'resource_id' => '1SUAL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2448,7 +2448,7 @@ class ResourceLookupTableSeeder extends Seeder
             221 => 
             array (
                 'id' => 222,
-                'resource_id' => '01SUAL_G02',
+                'resource_id' => '1SUAL_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2459,7 +2459,7 @@ class ResourceLookupTableSeeder extends Seeder
             222 => 
             array (
                 'id' => 223,
-                'resource_id' => '01SUAL_T3L1',
+                'resource_id' => '1SUAL_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2470,7 +2470,7 @@ class ResourceLookupTableSeeder extends Seeder
             223 => 
             array (
                 'id' => 224,
-                'resource_id' => '01SUBIC_T3L1',
+                'resource_id' => '1SUBIC_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2481,7 +2481,7 @@ class ResourceLookupTableSeeder extends Seeder
             224 => 
             array (
                 'id' => 225,
-                'resource_id' => '01SUBIC_T3L2',
+                'resource_id' => '1SUBIC_T3L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2492,7 +2492,7 @@ class ResourceLookupTableSeeder extends Seeder
             225 => 
             array (
                 'id' => 226,
-                'resource_id' => '01SUBSOL_G01',
+                'resource_id' => '1SUBSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2503,7 +2503,7 @@ class ResourceLookupTableSeeder extends Seeder
             226 => 
             array (
                 'id' => 227,
-                'resource_id' => '01S_ENRO_G01',
+                'resource_id' => '1S_ENRO_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2514,7 +2514,7 @@ class ResourceLookupTableSeeder extends Seeder
             227 => 
             array (
                 'id' => 228,
-                'resource_id' => '01S_ENRO_SS',
+                'resource_id' => '1S_ENRO_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2525,7 +2525,7 @@ class ResourceLookupTableSeeder extends Seeder
             228 => 
             array (
                 'id' => 229,
-                'resource_id' => '01TGEGA_SS',
+                'resource_id' => '1TGEGA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2536,7 +2536,7 @@ class ResourceLookupTableSeeder extends Seeder
             229 => 
             array (
                 'id' => 230,
-                'resource_id' => '01TGEGA_T1L1',
+                'resource_id' => '1TGEGA_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2547,7 +2547,7 @@ class ResourceLookupTableSeeder extends Seeder
             230 => 
             array (
                 'id' => 231,
-                'resource_id' => '01TG_CGELCO1',
+                'resource_id' => '1TG_CGELCO1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2558,7 +2558,7 @@ class ResourceLookupTableSeeder extends Seeder
             231 => 
             array (
                 'id' => 232,
-                'resource_id' => '01TG_CGELCO2',
+                'resource_id' => '1TG_CGELCO2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2569,7 +2569,7 @@ class ResourceLookupTableSeeder extends Seeder
             232 => 
             array (
                 'id' => 233,
-                'resource_id' => '01TG_ISELCO2',
+                'resource_id' => '1TG_ISELCO2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2580,7 +2580,7 @@ class ResourceLookupTableSeeder extends Seeder
             233 => 
             array (
                 'id' => 234,
-                'resource_id' => '01T_ASIA_G01',
+                'resource_id' => '1T_ASIA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -2591,7 +2591,7 @@ class ResourceLookupTableSeeder extends Seeder
             234 => 
             array (
                 'id' => 235,
-                'resource_id' => '01T_ASI_T3L1',
+                'resource_id' => '1T_ASI_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2602,7 +2602,7 @@ class ResourceLookupTableSeeder extends Seeder
             235 => 
             array (
                 'id' => 236,
-                'resource_id' => '01UPPC_G01',
+                'resource_id' => '1UPPC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2613,7 +2613,7 @@ class ResourceLookupTableSeeder extends Seeder
             236 => 
             array (
                 'id' => 237,
-                'resource_id' => '01YHGRN_G01',
+                'resource_id' => '1YHGRN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2624,7 +2624,7 @@ class ResourceLookupTableSeeder extends Seeder
             237 => 
             array (
                 'id' => 238,
-                'resource_id' => '01ZAMSOL_G01',
+                'resource_id' => '1ZAMSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2635,7 +2635,7 @@ class ResourceLookupTableSeeder extends Seeder
             238 => 
             array (
                 'id' => 239,
-                'resource_id' => '02ARANE_T1L1',
+                'resource_id' => '2ARANE_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2646,7 +2646,7 @@ class ResourceLookupTableSeeder extends Seeder
             239 => 
             array (
                 'id' => 240,
-                'resource_id' => '02BALNT_T1L1',
+                'resource_id' => '2BALNT_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2657,7 +2657,7 @@ class ResourceLookupTableSeeder extends Seeder
             240 => 
             array (
                 'id' => 241,
-                'resource_id' => '02DOLOR_T1L1',
+                'resource_id' => '2DOLOR_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2668,7 +2668,7 @@ class ResourceLookupTableSeeder extends Seeder
             241 => 
             array (
                 'id' => 242,
-                'resource_id' => '02DURACO_L01',
+                'resource_id' => '2DURACO_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2679,7 +2679,7 @@ class ResourceLookupTableSeeder extends Seeder
             242 => 
             array (
                 'id' => 243,
-                'resource_id' => '02MMPP_G01',
+                'resource_id' => '2MMPP_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2690,7 +2690,7 @@ class ResourceLookupTableSeeder extends Seeder
             243 => 
             array (
                 'id' => 244,
-                'resource_id' => '02PACO_T1L1',
+                'resource_id' => '2PACO_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2701,7 +2701,7 @@ class ResourceLookupTableSeeder extends Seeder
             244 => 
             array (
                 'id' => 245,
-                'resource_id' => '02PNGEA_G01',
+                'resource_id' => '2PNGEA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2712,7 +2712,7 @@ class ResourceLookupTableSeeder extends Seeder
             245 => 
             array (
                 'id' => 246,
-                'resource_id' => '02SMNRTH_G01',
+                'resource_id' => '2SMNRTH_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2723,7 +2723,7 @@ class ResourceLookupTableSeeder extends Seeder
             246 => 
             array (
                 'id' => 247,
-                'resource_id' => '02SUCAT_T1L1',
+                'resource_id' => '2SUCAT_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2734,7 +2734,7 @@ class ResourceLookupTableSeeder extends Seeder
             247 => 
             array (
                 'id' => 248,
-                'resource_id' => '02TMO_G01',
+                'resource_id' => '2TMO_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2745,7 +2745,7 @@ class ResourceLookupTableSeeder extends Seeder
             248 => 
             array (
                 'id' => 249,
-                'resource_id' => '02TMO_G02',
+                'resource_id' => '2TMO_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2756,7 +2756,7 @@ class ResourceLookupTableSeeder extends Seeder
             249 => 
             array (
                 'id' => 250,
-                'resource_id' => '02TMO_G03',
+                'resource_id' => '2TMO_G03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2767,7 +2767,7 @@ class ResourceLookupTableSeeder extends Seeder
             250 => 
             array (
                 'id' => 251,
-                'resource_id' => '02TMO_G04',
+                'resource_id' => '2TMO_G04',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2778,7 +2778,7 @@ class ResourceLookupTableSeeder extends Seeder
             251 => 
             array (
                 'id' => 252,
-                'resource_id' => '02VALSOL_G01',
+                'resource_id' => '2VALSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2789,7 +2789,7 @@ class ResourceLookupTableSeeder extends Seeder
             252 => 
             array (
                 'id' => 253,
-                'resource_id' => '02ZAPOT_T1L1',
+                'resource_id' => '2ZAPOT_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2800,7 +2800,7 @@ class ResourceLookupTableSeeder extends Seeder
             253 => 
             array (
                 'id' => 254,
-                'resource_id' => '03ADISOL_G01',
+                'resource_id' => '3ADISOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2811,7 +2811,7 @@ class ResourceLookupTableSeeder extends Seeder
             254 => 
             array (
                 'id' => 255,
-                'resource_id' => '03AMADEO_T1L1',
+                'resource_id' => '3AMADEO_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2822,7 +2822,7 @@ class ResourceLookupTableSeeder extends Seeder
             255 => 
             array (
                 'id' => 256,
-                'resource_id' => '03AVION_SS',
+                'resource_id' => '3AVION_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2833,7 +2833,7 @@ class ResourceLookupTableSeeder extends Seeder
             256 => 
             array (
                 'id' => 257,
-                'resource_id' => '03AVION_U01',
+                'resource_id' => '3AVION_U01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2844,7 +2844,7 @@ class ResourceLookupTableSeeder extends Seeder
             257 => 
             array (
                 'id' => 258,
-                'resource_id' => '03AVION_U02',
+                'resource_id' => '3AVION_U02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2855,7 +2855,7 @@ class ResourceLookupTableSeeder extends Seeder
             258 => 
             array (
                 'id' => 259,
-                'resource_id' => '03AWOC_G01',
+                'resource_id' => '3AWOC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2866,7 +2866,7 @@ class ResourceLookupTableSeeder extends Seeder
             259 => 
             array (
                 'id' => 260,
-                'resource_id' => '03BACMAN_G01',
+                'resource_id' => '3BACMAN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2877,7 +2877,7 @@ class ResourceLookupTableSeeder extends Seeder
             260 => 
             array (
                 'id' => 261,
-                'resource_id' => '03BACMAN_G02',
+                'resource_id' => '3BACMAN_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2888,7 +2888,7 @@ class ResourceLookupTableSeeder extends Seeder
             261 => 
             array (
                 'id' => 262,
-                'resource_id' => '03BACMAN_SS',
+                'resource_id' => '3BACMAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2899,7 +2899,7 @@ class ResourceLookupTableSeeder extends Seeder
             262 => 
             array (
                 'id' => 263,
-                'resource_id' => '03BART_G01',
+                'resource_id' => '3BART_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -2910,7 +2910,7 @@ class ResourceLookupTableSeeder extends Seeder
             263 => 
             array (
                 'id' => 264,
-                'resource_id' => '03BATAN_SS',
+                'resource_id' => '3BATAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2921,7 +2921,7 @@ class ResourceLookupTableSeeder extends Seeder
             264 => 
             array (
                 'id' => 265,
-                'resource_id' => '03BATAN_T1L2',
+                'resource_id' => '3BATAN_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2932,7 +2932,7 @@ class ResourceLookupTableSeeder extends Seeder
             265 => 
             array (
                 'id' => 266,
-                'resource_id' => '03BATAN_T2L2',
+                'resource_id' => '3BATAN_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2943,7 +2943,7 @@ class ResourceLookupTableSeeder extends Seeder
             266 => 
             array (
                 'id' => 267,
-                'resource_id' => '03BAT_BTLEC2',
+                'resource_id' => '3BAT_BTLEC2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2954,7 +2954,7 @@ class ResourceLookupTableSeeder extends Seeder
             267 => 
             array (
                 'id' => 268,
-                'resource_id' => '03BAT_LIMA',
+                'resource_id' => '3BAT_LIMA',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2965,7 +2965,7 @@ class ResourceLookupTableSeeder extends Seeder
             268 => 
             array (
                 'id' => 269,
-                'resource_id' => '03BAT_LIP01',
+                'resource_id' => '3BAT_LIP01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2976,7 +2976,7 @@ class ResourceLookupTableSeeder extends Seeder
             269 => 
             array (
                 'id' => 270,
-                'resource_id' => '03BAT_LIP02',
+                'resource_id' => '3BAT_LIP02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2987,7 +2987,7 @@ class ResourceLookupTableSeeder extends Seeder
             270 => 
             array (
                 'id' => 271,
-                'resource_id' => '03BAT_MECO',
+                'resource_id' => '3BAT_MECO',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -2998,7 +2998,7 @@ class ResourceLookupTableSeeder extends Seeder
             271 => 
             array (
                 'id' => 272,
-                'resource_id' => '03BAT_MECO1',
+                'resource_id' => '3BAT_MECO1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3009,7 +3009,7 @@ class ResourceLookupTableSeeder extends Seeder
             272 => 
             array (
                 'id' => 273,
-                'resource_id' => '03BAT_MECO2',
+                'resource_id' => '3BAT_MECO2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3020,7 +3020,7 @@ class ResourceLookupTableSeeder extends Seeder
             273 => 
             array (
                 'id' => 274,
-                'resource_id' => '03BAT_ROS01',
+                'resource_id' => '3BAT_ROS01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3031,7 +3031,7 @@ class ResourceLookupTableSeeder extends Seeder
             274 => 
             array (
                 'id' => 275,
-                'resource_id' => '03BAT_T1L1',
+                'resource_id' => '3BAT_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3042,7 +3042,7 @@ class ResourceLookupTableSeeder extends Seeder
             275 => 
             array (
                 'id' => 276,
-                'resource_id' => '03BAT_T2L1',
+                'resource_id' => '3BAT_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3053,7 +3053,7 @@ class ResourceLookupTableSeeder extends Seeder
             276 => 
             array (
                 'id' => 277,
-                'resource_id' => '03BBEC_G01',
+                'resource_id' => '3BBEC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3064,7 +3064,7 @@ class ResourceLookupTableSeeder extends Seeder
             277 => 
             array (
                 'id' => 278,
-                'resource_id' => '03BINAN_SS',
+                'resource_id' => '3BINAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3075,7 +3075,7 @@ class ResourceLookupTableSeeder extends Seeder
             278 => 
             array (
                 'id' => 279,
-                'resource_id' => '03BINAN_T1L1',
+                'resource_id' => '3BINAN_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3086,7 +3086,7 @@ class ResourceLookupTableSeeder extends Seeder
             279 => 
             array (
                 'id' => 280,
-                'resource_id' => '03BOTOCA_G01',
+                'resource_id' => '3BOTOCA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3097,7 +3097,7 @@ class ResourceLookupTableSeeder extends Seeder
             280 => 
             array (
                 'id' => 281,
-                'resource_id' => '03BOTOCA_L01',
+                'resource_id' => '3BOTOCA_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3108,7 +3108,7 @@ class ResourceLookupTableSeeder extends Seeder
             281 => 
             array (
                 'id' => 282,
-                'resource_id' => '03BOTOCA_SS',
+                'resource_id' => '3BOTOCA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3119,7 +3119,7 @@ class ResourceLookupTableSeeder extends Seeder
             282 => 
             array (
                 'id' => 283,
-                'resource_id' => '03CALACA_G01',
+                'resource_id' => '3CALACA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3130,7 +3130,7 @@ class ResourceLookupTableSeeder extends Seeder
             283 => 
             array (
                 'id' => 284,
-                'resource_id' => '03CALACA_G02',
+                'resource_id' => '3CALACA_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3141,7 +3141,7 @@ class ResourceLookupTableSeeder extends Seeder
             284 => 
             array (
                 'id' => 285,
-                'resource_id' => '03CALAU_SS',
+                'resource_id' => '3CALAU_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3152,7 +3152,7 @@ class ResourceLookupTableSeeder extends Seeder
             285 => 
             array (
                 'id' => 286,
-                'resource_id' => '03CALAU_T1L1',
+                'resource_id' => '3CALAU_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3163,7 +3163,7 @@ class ResourceLookupTableSeeder extends Seeder
             286 => 
             array (
                 'id' => 287,
-                'resource_id' => '03CALIRY_G01',
+                'resource_id' => '3CALIRY_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3174,7 +3174,7 @@ class ResourceLookupTableSeeder extends Seeder
             287 => 
             array (
                 'id' => 288,
-                'resource_id' => '03CALIRY_SS',
+                'resource_id' => '3CALIRY_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3185,7 +3185,7 @@ class ResourceLookupTableSeeder extends Seeder
             288 => 
             array (
                 'id' => 289,
-                'resource_id' => '03CALIR_TAL1',
+                'resource_id' => '3CALIR_TAL1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3196,7 +3196,7 @@ class ResourceLookupTableSeeder extends Seeder
             289 => 
             array (
                 'id' => 290,
-                'resource_id' => '03CALI_FLECO',
+                'resource_id' => '3CALI_FLECO',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3207,7 +3207,7 @@ class ResourceLookupTableSeeder extends Seeder
             290 => 
             array (
                 'id' => 291,
-                'resource_id' => '03CALSOL_G01',
+                'resource_id' => '3CALSOL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3218,7 +3218,7 @@ class ResourceLookupTableSeeder extends Seeder
             291 => 
             array (
                 'id' => 292,
-                'resource_id' => '03CLACA_SS',
+                'resource_id' => '3CLACA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3229,7 +3229,7 @@ class ResourceLookupTableSeeder extends Seeder
             292 => 
             array (
                 'id' => 293,
-                'resource_id' => '03CLA_BCNOT',
+                'resource_id' => '3CLA_BCNOT',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3240,7 +3240,7 @@ class ResourceLookupTableSeeder extends Seeder
             293 => 
             array (
                 'id' => 294,
-                'resource_id' => '03CLA_BTLEC1',
+                'resource_id' => '3CLA_BTLEC1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3251,7 +3251,7 @@ class ResourceLookupTableSeeder extends Seeder
             294 => 
             array (
                 'id' => 295,
-                'resource_id' => '03CLA_STLCOR',
+                'resource_id' => '3CLA_STLCOR',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3262,7 +3262,7 @@ class ResourceLookupTableSeeder extends Seeder
             295 => 
             array (
                 'id' => 296,
-                'resource_id' => '03CLA_T1L1',
+                'resource_id' => '3CLA_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3273,7 +3273,7 @@ class ResourceLookupTableSeeder extends Seeder
             296 => 
             array (
                 'id' => 297,
-                'resource_id' => '03DARAG_T1L1',
+                'resource_id' => '3DARAG_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3284,7 +3284,7 @@ class ResourceLookupTableSeeder extends Seeder
             297 => 
             array (
                 'id' => 298,
-                'resource_id' => '03DAR_ALECO',
+                'resource_id' => '3DAR_ALECO',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3295,7 +3295,7 @@ class ResourceLookupTableSeeder extends Seeder
             298 => 
             array (
                 'id' => 299,
-                'resource_id' => '03DAR_SRECO2',
+                'resource_id' => '3DAR_SRECO2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3306,7 +3306,7 @@ class ResourceLookupTableSeeder extends Seeder
             299 => 
             array (
                 'id' => 300,
-                'resource_id' => '03DASMA_L01',
+                'resource_id' => '3DASMA_L01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3317,7 +3317,7 @@ class ResourceLookupTableSeeder extends Seeder
             300 => 
             array (
                 'id' => 301,
-                'resource_id' => '03DASMA_SS',
+                'resource_id' => '3DASMA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3328,7 +3328,7 @@ class ResourceLookupTableSeeder extends Seeder
             301 => 
             array (
                 'id' => 302,
-                'resource_id' => '03GUMAC_T1L1',
+                'resource_id' => '3GUMAC_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3339,7 +3339,7 @@ class ResourceLookupTableSeeder extends Seeder
             302 => 
             array (
                 'id' => 303,
-                'resource_id' => '03GUMAC_T1L2',
+                'resource_id' => '3GUMAC_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3350,7 +3350,7 @@ class ResourceLookupTableSeeder extends Seeder
             303 => 
             array (
                 'id' => 304,
-                'resource_id' => '03GUMAC_T1L3',
+                'resource_id' => '3GUMAC_T1L3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3361,7 +3361,7 @@ class ResourceLookupTableSeeder extends Seeder
             304 => 
             array (
                 'id' => 305,
-                'resource_id' => '03GUMAC_T1L4',
+                'resource_id' => '3GUMAC_T1L4',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3372,7 +3372,7 @@ class ResourceLookupTableSeeder extends Seeder
             305 => 
             array (
                 'id' => 306,
-                'resource_id' => '03HDEPOT_G01',
+                'resource_id' => '3HDEPOT_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3383,7 +3383,7 @@ class ResourceLookupTableSeeder extends Seeder
             306 => 
             array (
                 'id' => 307,
-                'resource_id' => '03ILIJAN_G01',
+                'resource_id' => '3ILIJAN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3394,7 +3394,7 @@ class ResourceLookupTableSeeder extends Seeder
             307 => 
             array (
                 'id' => 308,
-                'resource_id' => '03ILIJAN_G02',
+                'resource_id' => '3ILIJAN_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3405,7 +3405,7 @@ class ResourceLookupTableSeeder extends Seeder
             308 => 
             array (
                 'id' => 309,
-                'resource_id' => '03ILIJAN_SS',
+                'resource_id' => '3ILIJAN_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3416,7 +3416,7 @@ class ResourceLookupTableSeeder extends Seeder
             309 => 
             array (
                 'id' => 310,
-                'resource_id' => '03ILIJAN_SS2',
+                'resource_id' => '3ILIJAN_SS2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3427,7 +3427,7 @@ class ResourceLookupTableSeeder extends Seeder
             310 => 
             array (
                 'id' => 311,
-                'resource_id' => '03KAL_E_T1L1',
+                'resource_id' => '3KAL_E_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3438,7 +3438,7 @@ class ResourceLookupTableSeeder extends Seeder
             311 => 
             array (
                 'id' => 312,
-                'resource_id' => '03KAL_G01',
+                'resource_id' => '3KAL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -3449,7 +3449,7 @@ class ResourceLookupTableSeeder extends Seeder
             312 => 
             array (
                 'id' => 313,
-                'resource_id' => '03KAL_G02',
+                'resource_id' => '3KAL_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -3460,7 +3460,7 @@ class ResourceLookupTableSeeder extends Seeder
             313 => 
             array (
                 'id' => 314,
-                'resource_id' => '03KAL_G03',
+                'resource_id' => '3KAL_G03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -3471,7 +3471,7 @@ class ResourceLookupTableSeeder extends Seeder
             314 => 
             array (
                 'id' => 315,
-                'resource_id' => '03KAL_G04',
+                'resource_id' => '3KAL_G04',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -3482,7 +3482,7 @@ class ResourceLookupTableSeeder extends Seeder
             315 => 
             array (
                 'id' => 316,
-                'resource_id' => '03KAL_P01',
+                'resource_id' => '3KAL_P01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3493,7 +3493,7 @@ class ResourceLookupTableSeeder extends Seeder
             316 => 
             array (
                 'id' => 317,
-                'resource_id' => '03KAL_P02',
+                'resource_id' => '3KAL_P02',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3504,7 +3504,7 @@ class ResourceLookupTableSeeder extends Seeder
             317 => 
             array (
                 'id' => 318,
-                'resource_id' => '03KAL_P03',
+                'resource_id' => '3KAL_P03',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3515,7 +3515,7 @@ class ResourceLookupTableSeeder extends Seeder
             318 => 
             array (
                 'id' => 319,
-                'resource_id' => '03KAL_P04',
+                'resource_id' => '3KAL_P04',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3526,7 +3526,7 @@ class ResourceLookupTableSeeder extends Seeder
             319 => 
             array (
                 'id' => 320,
-                'resource_id' => '03KAL_SS',
+                'resource_id' => '3KAL_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3537,7 +3537,7 @@ class ResourceLookupTableSeeder extends Seeder
             320 => 
             array (
                 'id' => 321,
-                'resource_id' => '03LABO_T1L1',
+                'resource_id' => '3LABO_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3548,7 +3548,7 @@ class ResourceLookupTableSeeder extends Seeder
             321 => 
             array (
                 'id' => 322,
-                'resource_id' => '03LABO_T1L2',
+                'resource_id' => '3LABO_T1L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3559,7 +3559,7 @@ class ResourceLookupTableSeeder extends Seeder
             322 => 
             array (
                 'id' => 323,
-                'resource_id' => '03LIAN_G01',
+                'resource_id' => '3LIAN_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3570,7 +3570,7 @@ class ResourceLookupTableSeeder extends Seeder
             323 => 
             array (
                 'id' => 324,
-                'resource_id' => '03LIAN_S01',
+                'resource_id' => '3LIAN_S01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3581,7 +3581,7 @@ class ResourceLookupTableSeeder extends Seeder
             324 => 
             array (
                 'id' => 325,
-                'resource_id' => '03LUZ_001',
+                'resource_id' => '3LUZ_001',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3592,7 +3592,7 @@ class ResourceLookupTableSeeder extends Seeder
             325 => 
             array (
                 'id' => 326,
-                'resource_id' => '03MAKBA_T3L1',
+                'resource_id' => '3MAKBA_T3L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3603,7 +3603,7 @@ class ResourceLookupTableSeeder extends Seeder
             326 => 
             array (
                 'id' => 327,
-                'resource_id' => '03MAKBA_T3L2',
+                'resource_id' => '3MAKBA_T3L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3614,7 +3614,7 @@ class ResourceLookupTableSeeder extends Seeder
             327 => 
             array (
                 'id' => 328,
-                'resource_id' => '03MALAYA_G01',
+                'resource_id' => '3MALAYA_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3625,7 +3625,7 @@ class ResourceLookupTableSeeder extends Seeder
             328 => 
             array (
                 'id' => 329,
-                'resource_id' => '03MALAYA_G02',
+                'resource_id' => '3MALAYA_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3636,7 +3636,7 @@ class ResourceLookupTableSeeder extends Seeder
             329 => 
             array (
                 'id' => 330,
-                'resource_id' => '03MEC_G01',
+                'resource_id' => '3MEC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3647,7 +3647,7 @@ class ResourceLookupTableSeeder extends Seeder
             330 => 
             array (
                 'id' => 331,
-                'resource_id' => '03MGPP_G01',
+                'resource_id' => '3MGPP_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3658,7 +3658,7 @@ class ResourceLookupTableSeeder extends Seeder
             331 => 
             array (
                 'id' => 332,
-                'resource_id' => '03MKBNA_SS',
+                'resource_id' => '3MKBNA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3669,7 +3669,7 @@ class ResourceLookupTableSeeder extends Seeder
             332 => 
             array (
                 'id' => 333,
-                'resource_id' => '03MKBNB_SS',
+                'resource_id' => '3MKBNB_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3680,7 +3680,7 @@ class ResourceLookupTableSeeder extends Seeder
             333 => 
             array (
                 'id' => 334,
-                'resource_id' => '03MKBNC_SS',
+                'resource_id' => '3MKBNC_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3691,7 +3691,7 @@ class ResourceLookupTableSeeder extends Seeder
             334 => 
             array (
                 'id' => 335,
-                'resource_id' => '03MKBND_SS',
+                'resource_id' => '3MKBND_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3702,7 +3702,7 @@ class ResourceLookupTableSeeder extends Seeder
             335 => 
             array (
                 'id' => 336,
-                'resource_id' => '03MKBNE_SS',
+                'resource_id' => '3MKBNE_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3713,7 +3713,7 @@ class ResourceLookupTableSeeder extends Seeder
             336 => 
             array (
                 'id' => 337,
-                'resource_id' => '03MKBN_A',
+                'resource_id' => '3MKBN_A',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3724,7 +3724,7 @@ class ResourceLookupTableSeeder extends Seeder
             337 => 
             array (
                 'id' => 338,
-                'resource_id' => '03MKBN_B',
+                'resource_id' => '3MKBN_B',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3735,7 +3735,7 @@ class ResourceLookupTableSeeder extends Seeder
             338 => 
             array (
                 'id' => 339,
-                'resource_id' => '03MKBN_C',
+                'resource_id' => '3MKBN_C',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3746,7 +3746,7 @@ class ResourceLookupTableSeeder extends Seeder
             339 => 
             array (
                 'id' => 340,
-                'resource_id' => '03MKBN_D',
+                'resource_id' => '3MKBN_D',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3757,7 +3757,7 @@ class ResourceLookupTableSeeder extends Seeder
             340 => 
             array (
                 'id' => 341,
-                'resource_id' => '03MKBN_E',
+                'resource_id' => '3MKBN_E',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3768,7 +3768,7 @@ class ResourceLookupTableSeeder extends Seeder
             341 => 
             array (
                 'id' => 342,
-                'resource_id' => '03MLAYA_SS',
+                'resource_id' => '3MLAYA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3779,7 +3779,7 @@ class ResourceLookupTableSeeder extends Seeder
             342 => 
             array (
                 'id' => 343,
-                'resource_id' => '03MLAYA_T2L1',
+                'resource_id' => '3MLAYA_T2L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3790,7 +3790,7 @@ class ResourceLookupTableSeeder extends Seeder
             343 => 
             array (
                 'id' => 344,
-                'resource_id' => '03MLAYA_T2L2',
+                'resource_id' => '3MLAYA_T2L2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3801,7 +3801,7 @@ class ResourceLookupTableSeeder extends Seeder
             344 => 
             array (
                 'id' => 345,
-                'resource_id' => '03NAG_CSRC2B',
+                'resource_id' => '3NAG_CSRC2B',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3812,7 +3812,7 @@ class ResourceLookupTableSeeder extends Seeder
             345 => 
             array (
                 'id' => 346,
-                'resource_id' => '03NAG_CSRCO1',
+                'resource_id' => '3NAG_CSRCO1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3823,7 +3823,7 @@ class ResourceLookupTableSeeder extends Seeder
             346 => 
             array (
                 'id' => 347,
-                'resource_id' => '03NAG_CSRCO2',
+                'resource_id' => '3NAG_CSRCO2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3834,7 +3834,7 @@ class ResourceLookupTableSeeder extends Seeder
             347 => 
             array (
                 'id' => 348,
-                'resource_id' => '03NAG_CSRCO3',
+                'resource_id' => '3NAG_CSRCO3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3845,7 +3845,7 @@ class ResourceLookupTableSeeder extends Seeder
             348 => 
             array (
                 'id' => 349,
-                'resource_id' => '03NAG_CSRCO4',
+                'resource_id' => '3NAG_CSRCO4',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3856,7 +3856,7 @@ class ResourceLookupTableSeeder extends Seeder
             349 => 
             array (
                 'id' => 350,
-                'resource_id' => '03ORMAT_G01',
+                'resource_id' => '3ORMAT_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3867,7 +3867,7 @@ class ResourceLookupTableSeeder extends Seeder
             350 => 
             array (
                 'id' => 351,
-                'resource_id' => '03ORMAT_SS',
+                'resource_id' => '3ORMAT_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3878,7 +3878,7 @@ class ResourceLookupTableSeeder extends Seeder
             351 => 
             array (
                 'id' => 352,
-                'resource_id' => '03PAGBIL_G01',
+                'resource_id' => '3PAGBIL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -3889,7 +3889,7 @@ class ResourceLookupTableSeeder extends Seeder
             352 => 
             array (
                 'id' => 353,
-                'resource_id' => '03PAGBIL_G02',
+                'resource_id' => '3PAGBIL_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 1,
@@ -3900,7 +3900,7 @@ class ResourceLookupTableSeeder extends Seeder
             353 => 
             array (
                 'id' => 354,
-                'resource_id' => '03PAGBIL_S03',
+                'resource_id' => '3PAGBIL_S03',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3911,7 +3911,7 @@ class ResourceLookupTableSeeder extends Seeder
             354 => 
             array (
                 'id' => 355,
-                'resource_id' => '03PGBIL_SS1',
+                'resource_id' => '3PGBIL_SS1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3922,7 +3922,7 @@ class ResourceLookupTableSeeder extends Seeder
             355 => 
             array (
                 'id' => 356,
-                'resource_id' => '03PGBIL_SS2',
+                'resource_id' => '3PGBIL_SS2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3933,7 +3933,7 @@ class ResourceLookupTableSeeder extends Seeder
             356 => 
             array (
                 'id' => 357,
-                'resource_id' => '03QPPL_G01',
+                'resource_id' => '3QPPL_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3944,7 +3944,7 @@ class ResourceLookupTableSeeder extends Seeder
             357 => 
             array (
                 'id' => 358,
-                'resource_id' => '03QPPL_SU1',
+                'resource_id' => '3QPPL_SU1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3955,7 +3955,7 @@ class ResourceLookupTableSeeder extends Seeder
             358 => 
             array (
                 'id' => 359,
-                'resource_id' => '03QPPL_SU2',
+                'resource_id' => '3QPPL_SU2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3966,7 +3966,7 @@ class ResourceLookupTableSeeder extends Seeder
             359 => 
             array (
                 'id' => 360,
-                'resource_id' => '03QPPL_T5L1',
+                'resource_id' => '3QPPL_T5L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -3977,7 +3977,7 @@ class ResourceLookupTableSeeder extends Seeder
             360 => 
             array (
                 'id' => 361,
-                'resource_id' => '03RCBMI_G01',
+                'resource_id' => '3RCBMI_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3988,7 +3988,7 @@ class ResourceLookupTableSeeder extends Seeder
             361 => 
             array (
                 'id' => 362,
-                'resource_id' => '03RCBMI_G02',
+                'resource_id' => '3RCBMI_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -3999,7 +3999,7 @@ class ResourceLookupTableSeeder extends Seeder
             362 => 
             array (
                 'id' => 363,
-                'resource_id' => '03SLPGC_G01',
+                'resource_id' => '3SLPGC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4010,7 +4010,7 @@ class ResourceLookupTableSeeder extends Seeder
             363 => 
             array (
                 'id' => 364,
-                'resource_id' => '03SLPGC_G02',
+                'resource_id' => '3SLPGC_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4021,7 +4021,7 @@ class ResourceLookupTableSeeder extends Seeder
             364 => 
             array (
                 'id' => 365,
-                'resource_id' => '03SLPGC_G03',
+                'resource_id' => '3SLPGC_G03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4032,7 +4032,7 @@ class ResourceLookupTableSeeder extends Seeder
             365 => 
             array (
                 'id' => 366,
-                'resource_id' => '03SLPGC_G04',
+                'resource_id' => '3SLPGC_G04',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4043,7 +4043,7 @@ class ResourceLookupTableSeeder extends Seeder
             366 => 
             array (
                 'id' => 367,
-                'resource_id' => '03SLPGC_SS',
+                'resource_id' => '3SLPGC_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4054,7 +4054,7 @@ class ResourceLookupTableSeeder extends Seeder
             367 => 
             array (
                 'id' => 368,
-                'resource_id' => '03SLTEC_G01',
+                'resource_id' => '3SLTEC_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4065,7 +4065,7 @@ class ResourceLookupTableSeeder extends Seeder
             368 => 
             array (
                 'id' => 369,
-                'resource_id' => '03SLTEC_G02',
+                'resource_id' => '3SLTEC_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4076,7 +4076,7 @@ class ResourceLookupTableSeeder extends Seeder
             369 => 
             array (
                 'id' => 370,
-                'resource_id' => '03SLTEC_SS',
+                'resource_id' => '3SLTEC_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4087,7 +4087,7 @@ class ResourceLookupTableSeeder extends Seeder
             370 => 
             array (
                 'id' => 371,
-                'resource_id' => '03SNGAB_G01',
+                'resource_id' => '3SNGAB_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4098,7 +4098,7 @@ class ResourceLookupTableSeeder extends Seeder
             371 => 
             array (
                 'id' => 372,
-                'resource_id' => '03SNGAB_S01',
+                'resource_id' => '3SNGAB_S01',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4109,7 +4109,7 @@ class ResourceLookupTableSeeder extends Seeder
             372 => 
             array (
                 'id' => 373,
-                'resource_id' => '03STA-RI_G01',
+                'resource_id' => '3STA-RI_G01',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4120,7 +4120,7 @@ class ResourceLookupTableSeeder extends Seeder
             373 => 
             array (
                 'id' => 374,
-                'resource_id' => '03STA-RI_G02',
+                'resource_id' => '3STA-RI_G02',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4131,7 +4131,7 @@ class ResourceLookupTableSeeder extends Seeder
             374 => 
             array (
                 'id' => 375,
-                'resource_id' => '03STA-RI_G03',
+                'resource_id' => '3STA-RI_G03',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4142,7 +4142,7 @@ class ResourceLookupTableSeeder extends Seeder
             375 => 
             array (
                 'id' => 376,
-                'resource_id' => '03STA-RI_G04',
+                'resource_id' => '3STA-RI_G04',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4153,7 +4153,7 @@ class ResourceLookupTableSeeder extends Seeder
             376 => 
             array (
                 'id' => 377,
-                'resource_id' => '03STA-RI_G05',
+                'resource_id' => '3STA-RI_G05',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4164,7 +4164,7 @@ class ResourceLookupTableSeeder extends Seeder
             377 => 
             array (
                 'id' => 378,
-                'resource_id' => '03STA-RI_G06',
+                'resource_id' => '3STA-RI_G06',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4175,7 +4175,7 @@ class ResourceLookupTableSeeder extends Seeder
             378 => 
             array (
                 'id' => 379,
-                'resource_id' => '03STAR_SS1',
+                'resource_id' => '3STAR_SS1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4186,7 +4186,7 @@ class ResourceLookupTableSeeder extends Seeder
             379 => 
             array (
                 'id' => 380,
-                'resource_id' => '03STAR_SS2',
+                'resource_id' => '3STAR_SS2',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4197,7 +4197,7 @@ class ResourceLookupTableSeeder extends Seeder
             380 => 
             array (
                 'id' => 381,
-                'resource_id' => '03STAR_SS3',
+                'resource_id' => '3STAR_SS3',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4208,7 +4208,7 @@ class ResourceLookupTableSeeder extends Seeder
             381 => 
             array (
                 'id' => 382,
-                'resource_id' => '03STAR_SS4',
+                'resource_id' => '3STAR_SS4',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4219,7 +4219,7 @@ class ResourceLookupTableSeeder extends Seeder
             382 => 
             array (
                 'id' => 383,
-                'resource_id' => '03STAR_SS5',
+                'resource_id' => '3STAR_SS5',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4230,7 +4230,7 @@ class ResourceLookupTableSeeder extends Seeder
             383 => 
             array (
                 'id' => 384,
-                'resource_id' => '03STAR_SS6',
+                'resource_id' => '3STAR_SS6',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4241,7 +4241,7 @@ class ResourceLookupTableSeeder extends Seeder
             384 => 
             array (
                 'id' => 385,
-                'resource_id' => '03STROS_T1L1',
+                'resource_id' => '3STROS_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4252,7 +4252,7 @@ class ResourceLookupTableSeeder extends Seeder
             385 => 
             array (
                 'id' => 386,
-                'resource_id' => '03TAYAB_SS',
+                'resource_id' => '3TAYAB_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4263,7 +4263,7 @@ class ResourceLookupTableSeeder extends Seeder
             386 => 
             array (
                 'id' => 387,
-                'resource_id' => '03TAYAB_T1L1',
+                'resource_id' => '3TAYAB_T1L1',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4274,7 +4274,7 @@ class ResourceLookupTableSeeder extends Seeder
             387 => 
             array (
                 'id' => 388,
-                'resource_id' => '03TIWIA_SS',
+                'resource_id' => '3TIWIA_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4285,7 +4285,7 @@ class ResourceLookupTableSeeder extends Seeder
             388 => 
             array (
                 'id' => 389,
-                'resource_id' => '03TIWIB_SS',
+                'resource_id' => '3TIWIB_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4296,7 +4296,7 @@ class ResourceLookupTableSeeder extends Seeder
             389 => 
             array (
                 'id' => 390,
-                'resource_id' => '03TIWIC_SS',
+                'resource_id' => '3TIWIC_SS',
                 'region' => 'LUZON',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4307,7 +4307,7 @@ class ResourceLookupTableSeeder extends Seeder
             390 => 
             array (
                 'id' => 391,
-                'resource_id' => '03TIWI_A',
+                'resource_id' => '3TIWI_A',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4318,7 +4318,7 @@ class ResourceLookupTableSeeder extends Seeder
             391 => 
             array (
                 'id' => 392,
-                'resource_id' => '03TIWI_B',
+                'resource_id' => '3TIWI_B',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4329,7 +4329,7 @@ class ResourceLookupTableSeeder extends Seeder
             392 => 
             array (
                 'id' => 393,
-                'resource_id' => '03TIWI_C',
+                'resource_id' => '3TIWI_C',
                 'region' => 'LUZON',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4340,7 +4340,7 @@ class ResourceLookupTableSeeder extends Seeder
             393 => 
             array (
                 'id' => 394,
-                'resource_id' => '04BABAT_T1L1',
+                'resource_id' => '4BABAT_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4351,7 +4351,7 @@ class ResourceLookupTableSeeder extends Seeder
             394 => 
             array (
                 'id' => 395,
-                'resource_id' => '04BAGLI_T1L1',
+                'resource_id' => '4BAGLI_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4362,7 +4362,7 @@ class ResourceLookupTableSeeder extends Seeder
             395 => 
             array (
                 'id' => 396,
-                'resource_id' => '04CLBYOG_L01',
+                'resource_id' => '4CLBYOG_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4373,7 +4373,7 @@ class ResourceLookupTableSeeder extends Seeder
             396 => 
             array (
                 'id' => 397,
-                'resource_id' => '04CLBYOG_L02',
+                'resource_id' => '4CLBYOG_L02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4384,7 +4384,7 @@ class ResourceLookupTableSeeder extends Seeder
             397 => 
             array (
                 'id' => 398,
-                'resource_id' => '04ISABE_T1L1',
+                'resource_id' => '4ISABE_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4395,7 +4395,7 @@ class ResourceLookupTableSeeder extends Seeder
             398 => 
             array (
                 'id' => 399,
-                'resource_id' => '04ISABE_T2L1',
+                'resource_id' => '4ISABE_T2L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4406,7 +4406,7 @@ class ResourceLookupTableSeeder extends Seeder
             399 => 
             array (
                 'id' => 400,
-                'resource_id' => '04ISABE_T3L1',
+                'resource_id' => '4ISABE_T3L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4417,7 +4417,7 @@ class ResourceLookupTableSeeder extends Seeder
             400 => 
             array (
                 'id' => 401,
-                'resource_id' => '04ISABE_T4L2',
+                'resource_id' => '4ISABE_T4L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4428,7 +4428,7 @@ class ResourceLookupTableSeeder extends Seeder
             401 => 
             array (
                 'id' => 402,
-                'resource_id' => '04ISABE_T5L2',
+                'resource_id' => '4ISABE_T5L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4439,7 +4439,7 @@ class ResourceLookupTableSeeder extends Seeder
             402 => 
             array (
                 'id' => 403,
-                'resource_id' => '04LEYTE_A',
+                'resource_id' => '4LEYTE_A',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4450,7 +4450,7 @@ class ResourceLookupTableSeeder extends Seeder
             403 => 
             array (
                 'id' => 404,
-                'resource_id' => '04LEYTE_S01',
+                'resource_id' => '4LEYTE_S01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4461,7 +4461,7 @@ class ResourceLookupTableSeeder extends Seeder
             404 => 
             array (
                 'id' => 405,
-                'resource_id' => '04LGPP_G01',
+                'resource_id' => '4LGPP_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4472,7 +4472,7 @@ class ResourceLookupTableSeeder extends Seeder
             405 => 
             array (
                 'id' => 406,
-                'resource_id' => '04MAASI_T1L1',
+                'resource_id' => '4MAASI_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4483,7 +4483,7 @@ class ResourceLookupTableSeeder extends Seeder
             406 => 
             array (
                 'id' => 407,
-                'resource_id' => '04MAASI_T2L2',
+                'resource_id' => '4MAASI_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4494,7 +4494,7 @@ class ResourceLookupTableSeeder extends Seeder
             407 => 
             array (
                 'id' => 408,
-                'resource_id' => '04ORMOC_T2L1',
+                'resource_id' => '4ORMOC_T2L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4505,7 +4505,7 @@ class ResourceLookupTableSeeder extends Seeder
             408 => 
             array (
                 'id' => 409,
-                'resource_id' => '04ORMOC_T2L2',
+                'resource_id' => '4ORMOC_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4516,7 +4516,7 @@ class ResourceLookupTableSeeder extends Seeder
             409 => 
             array (
                 'id' => 410,
-                'resource_id' => '04PHSOL_G01',
+                'resource_id' => '4PHSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4527,7 +4527,7 @@ class ResourceLookupTableSeeder extends Seeder
             410 => 
             array (
                 'id' => 411,
-                'resource_id' => '04SEPSOL_G01',
+                'resource_id' => '4SEPSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4538,7 +4538,7 @@ class ResourceLookupTableSeeder extends Seeder
             411 => 
             array (
                 'id' => 412,
-                'resource_id' => '04TABAN_T1L1',
+                'resource_id' => '4TABAN_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4549,7 +4549,7 @@ class ResourceLookupTableSeeder extends Seeder
             412 => 
             array (
                 'id' => 413,
-                'resource_id' => '04TONGIA_SS',
+                'resource_id' => '4TONGIA_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4560,7 +4560,7 @@ class ResourceLookupTableSeeder extends Seeder
             413 => 
             array (
                 'id' => 414,
-                'resource_id' => '04TONGO_T2L2',
+                'resource_id' => '4TONGO_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4571,7 +4571,7 @@ class ResourceLookupTableSeeder extends Seeder
             414 => 
             array (
                 'id' => 415,
-                'resource_id' => '04VIS_001',
+                'resource_id' => '4VIS_001',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4582,7 +4582,7 @@ class ResourceLookupTableSeeder extends Seeder
             415 => 
             array (
                 'id' => 416,
-                'resource_id' => '04WRIGH_T1L1',
+                'resource_id' => '4WRIGH_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4593,7 +4593,7 @@ class ResourceLookupTableSeeder extends Seeder
             416 => 
             array (
                 'id' => 417,
-                'resource_id' => '04WRIGH_T2L2',
+                'resource_id' => '4WRIGH_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4604,7 +4604,7 @@ class ResourceLookupTableSeeder extends Seeder
             417 => 
             array (
                 'id' => 418,
-                'resource_id' => '05BANIL_T1L1',
+                'resource_id' => '5BANIL_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4615,7 +4615,7 @@ class ResourceLookupTableSeeder extends Seeder
             418 => 
             array (
                 'id' => 419,
-                'resource_id' => '05BANIL_T1L2',
+                'resource_id' => '5BANIL_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4626,7 +4626,7 @@ class ResourceLookupTableSeeder extends Seeder
             419 => 
             array (
                 'id' => 420,
-                'resource_id' => '05BANIL_T2L1',
+                'resource_id' => '5BANIL_T2L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4637,7 +4637,7 @@ class ResourceLookupTableSeeder extends Seeder
             420 => 
             array (
                 'id' => 421,
-                'resource_id' => '05BANIL_T3L1',
+                'resource_id' => '5BANIL_T3L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4648,7 +4648,7 @@ class ResourceLookupTableSeeder extends Seeder
             421 => 
             array (
                 'id' => 422,
-                'resource_id' => '05CDPPI_G01',
+                'resource_id' => '5CDPPI_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4659,7 +4659,7 @@ class ResourceLookupTableSeeder extends Seeder
             422 => 
             array (
                 'id' => 423,
-                'resource_id' => '05CDPPI_G02',
+                'resource_id' => '5CDPPI_G02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4670,7 +4670,7 @@ class ResourceLookupTableSeeder extends Seeder
             423 => 
             array (
                 'id' => 424,
-                'resource_id' => '05CDPPI_SS1',
+                'resource_id' => '5CDPPI_SS1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4681,7 +4681,7 @@ class ResourceLookupTableSeeder extends Seeder
             424 => 
             array (
                 'id' => 425,
-                'resource_id' => '05CDPPI_SS2',
+                'resource_id' => '5CDPPI_SS2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4692,7 +4692,7 @@ class ResourceLookupTableSeeder extends Seeder
             425 => 
             array (
                 'id' => 426,
-                'resource_id' => '05CEDC_G01',
+                'resource_id' => '5CEDC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4703,7 +4703,7 @@ class ResourceLookupTableSeeder extends Seeder
             426 => 
             array (
                 'id' => 427,
-                'resource_id' => '05CEDC_L01',
+                'resource_id' => '5CEDC_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4714,7 +4714,7 @@ class ResourceLookupTableSeeder extends Seeder
             427 => 
             array (
                 'id' => 428,
-                'resource_id' => '05CEDC_L02',
+                'resource_id' => '5CEDC_L02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4725,7 +4725,7 @@ class ResourceLookupTableSeeder extends Seeder
             428 => 
             array (
                 'id' => 429,
-                'resource_id' => '05CEDC_SS',
+                'resource_id' => '5CEDC_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4736,7 +4736,7 @@ class ResourceLookupTableSeeder extends Seeder
             429 => 
             array (
                 'id' => 430,
-                'resource_id' => '05CEDC_U01',
+                'resource_id' => '5CEDC_U01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4747,7 +4747,7 @@ class ResourceLookupTableSeeder extends Seeder
             430 => 
             array (
                 'id' => 431,
-                'resource_id' => '05CEDC_U02',
+                'resource_id' => '5CEDC_U02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4758,7 +4758,7 @@ class ResourceLookupTableSeeder extends Seeder
             431 => 
             array (
                 'id' => 432,
-                'resource_id' => '05CEDC_U03',
+                'resource_id' => '5CEDC_U03',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4769,7 +4769,7 @@ class ResourceLookupTableSeeder extends Seeder
             432 => 
             array (
                 'id' => 433,
-                'resource_id' => '05CEMEX_L01',
+                'resource_id' => '5CEMEX_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4780,7 +4780,7 @@ class ResourceLookupTableSeeder extends Seeder
             433 => 
             array (
                 'id' => 434,
-                'resource_id' => '05COMPS_T1L1',
+                'resource_id' => '5COMPS_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4791,7 +4791,7 @@ class ResourceLookupTableSeeder extends Seeder
             434 => 
             array (
                 'id' => 435,
-                'resource_id' => '05COMPS_T2L2',
+                'resource_id' => '5COMPS_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4802,7 +4802,7 @@ class ResourceLookupTableSeeder extends Seeder
             435 => 
             array (
                 'id' => 436,
-                'resource_id' => '05CPPC_G01',
+                'resource_id' => '5CPPC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4813,7 +4813,7 @@ class ResourceLookupTableSeeder extends Seeder
             436 => 
             array (
                 'id' => 437,
-                'resource_id' => '05CTPP1_SS',
+                'resource_id' => '5CTPP1_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4824,7 +4824,7 @@ class ResourceLookupTableSeeder extends Seeder
             437 => 
             array (
                 'id' => 438,
-                'resource_id' => '05CTPP2_SS1',
+                'resource_id' => '5CTPP2_SS1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4835,7 +4835,7 @@ class ResourceLookupTableSeeder extends Seeder
             438 => 
             array (
                 'id' => 439,
-                'resource_id' => '05CTPP2_SS2',
+                'resource_id' => '5CTPP2_SS2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4846,7 +4846,7 @@ class ResourceLookupTableSeeder extends Seeder
             439 => 
             array (
                 'id' => 440,
-                'resource_id' => '05EAUC_G01',
+                'resource_id' => '5EAUC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4857,7 +4857,7 @@ class ResourceLookupTableSeeder extends Seeder
             440 => 
             array (
                 'id' => 441,
-                'resource_id' => '05KSPC_G01',
+                'resource_id' => '5KSPC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4868,7 +4868,7 @@ class ResourceLookupTableSeeder extends Seeder
             441 => 
             array (
                 'id' => 442,
-                'resource_id' => '05KSPC_G02',
+                'resource_id' => '5KSPC_G02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4879,7 +4879,7 @@ class ResourceLookupTableSeeder extends Seeder
             442 => 
             array (
                 'id' => 443,
-                'resource_id' => '05KSPC_SS1',
+                'resource_id' => '5KSPC_SS1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4890,7 +4890,7 @@ class ResourceLookupTableSeeder extends Seeder
             443 => 
             array (
                 'id' => 444,
-                'resource_id' => '05KSPC_SS2',
+                'resource_id' => '5KSPC_SS2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4901,7 +4901,7 @@ class ResourceLookupTableSeeder extends Seeder
             444 => 
             array (
                 'id' => 445,
-                'resource_id' => '05LBGT1_SS',
+                'resource_id' => '5LBGT1_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4912,7 +4912,7 @@ class ResourceLookupTableSeeder extends Seeder
             445 => 
             array (
                 'id' => 446,
-                'resource_id' => '05LBGT2_SS',
+                'resource_id' => '5LBGT2_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4923,7 +4923,7 @@ class ResourceLookupTableSeeder extends Seeder
             446 => 
             array (
                 'id' => 447,
-                'resource_id' => '05LBGT_G01',
+                'resource_id' => '5LBGT_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4934,7 +4934,7 @@ class ResourceLookupTableSeeder extends Seeder
             447 => 
             array (
                 'id' => 448,
-                'resource_id' => '05LBGT_G02',
+                'resource_id' => '5LBGT_G02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -4945,7 +4945,7 @@ class ResourceLookupTableSeeder extends Seeder
             448 => 
             array (
                 'id' => 449,
-                'resource_id' => '05MCTAN_T1L1',
+                'resource_id' => '5MCTAN_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4956,7 +4956,7 @@ class ResourceLookupTableSeeder extends Seeder
             449 => 
             array (
                 'id' => 450,
-                'resource_id' => '05MNDUE_T1L1',
+                'resource_id' => '5MNDUE_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4967,7 +4967,7 @@ class ResourceLookupTableSeeder extends Seeder
             450 => 
             array (
                 'id' => 451,
-                'resource_id' => '05MNDUE_T1L2',
+                'resource_id' => '5MNDUE_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4978,7 +4978,7 @@ class ResourceLookupTableSeeder extends Seeder
             451 => 
             array (
                 'id' => 452,
-                'resource_id' => '05MNDUE_T1L4',
+                'resource_id' => '5MNDUE_T1L4',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -4989,7 +4989,7 @@ class ResourceLookupTableSeeder extends Seeder
             452 => 
             array (
                 'id' => 453,
-                'resource_id' => '05MNDUE_T1L5',
+                'resource_id' => '5MNDUE_T1L5',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5000,7 +5000,7 @@ class ResourceLookupTableSeeder extends Seeder
             453 => 
             array (
                 'id' => 454,
-                'resource_id' => '05NAGATR7_SS',
+                'resource_id' => '5NAGATR7_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5011,7 +5011,7 @@ class ResourceLookupTableSeeder extends Seeder
             454 => 
             array (
                 'id' => 455,
-                'resource_id' => '05NAGA_T1L1',
+                'resource_id' => '5NAGA_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5022,7 +5022,7 @@ class ResourceLookupTableSeeder extends Seeder
             455 => 
             array (
                 'id' => 456,
-                'resource_id' => '05NAGA_T2L2',
+                'resource_id' => '5NAGA_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5033,7 +5033,7 @@ class ResourceLookupTableSeeder extends Seeder
             456 => 
             array (
                 'id' => 457,
-                'resource_id' => '05NEWNAGA_SS',
+                'resource_id' => '5NEWNAGA_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5044,7 +5044,7 @@ class ResourceLookupTableSeeder extends Seeder
             457 => 
             array (
                 'id' => 458,
-                'resource_id' => '05PHNPB3_G01',
+                'resource_id' => '5PHNPB3_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5055,7 +5055,7 @@ class ResourceLookupTableSeeder extends Seeder
             458 => 
             array (
                 'id' => 459,
-                'resource_id' => '05QUIOT_T1L1',
+                'resource_id' => '5QUIOT_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5066,7 +5066,7 @@ class ResourceLookupTableSeeder extends Seeder
             459 => 
             array (
                 'id' => 460,
-                'resource_id' => '05SAMB_L01',
+                'resource_id' => '5SAMB_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5077,7 +5077,7 @@ class ResourceLookupTableSeeder extends Seeder
             460 => 
             array (
                 'id' => 461,
-                'resource_id' => '05SAMB_L02',
+                'resource_id' => '5SAMB_L02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5088,7 +5088,7 @@ class ResourceLookupTableSeeder extends Seeder
             461 => 
             array (
                 'id' => 462,
-                'resource_id' => '05TALATR1_SS',
+                'resource_id' => '5TALATR1_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5099,7 +5099,7 @@ class ResourceLookupTableSeeder extends Seeder
             462 => 
             array (
                 'id' => 463,
-                'resource_id' => '05TALAV_T1L1',
+                'resource_id' => '5TALAV_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5110,7 +5110,7 @@ class ResourceLookupTableSeeder extends Seeder
             463 => 
             array (
                 'id' => 464,
-                'resource_id' => '05TALIS_T1L1',
+                'resource_id' => '5TALIS_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5121,7 +5121,7 @@ class ResourceLookupTableSeeder extends Seeder
             464 => 
             array (
                 'id' => 465,
-                'resource_id' => '05TOLSOL_G01',
+                'resource_id' => '5TOLSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5132,7 +5132,7 @@ class ResourceLookupTableSeeder extends Seeder
             465 => 
             array (
                 'id' => 466,
-                'resource_id' => '05TPC_G01',
+                'resource_id' => '5TPC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5143,7 +5143,7 @@ class ResourceLookupTableSeeder extends Seeder
             466 => 
             array (
                 'id' => 467,
-                'resource_id' => '05TPC_G02',
+                'resource_id' => '5TPC_G02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5154,7 +5154,7 @@ class ResourceLookupTableSeeder extends Seeder
             467 => 
             array (
                 'id' => 468,
-                'resource_id' => '05TPC_L01',
+                'resource_id' => '5TPC_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5165,7 +5165,7 @@ class ResourceLookupTableSeeder extends Seeder
             468 => 
             array (
                 'id' => 469,
-                'resource_id' => '05TPC_S01',
+                'resource_id' => '5TPC_S01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5176,7 +5176,7 @@ class ResourceLookupTableSeeder extends Seeder
             469 => 
             array (
                 'id' => 470,
-                'resource_id' => '05TPC_S02',
+                'resource_id' => '5TPC_S02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5187,7 +5187,7 @@ class ResourceLookupTableSeeder extends Seeder
             470 => 
             array (
                 'id' => 471,
-                'resource_id' => '06AMLAN_T1L1',
+                'resource_id' => '6AMLAN_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5198,7 +5198,7 @@ class ResourceLookupTableSeeder extends Seeder
             471 => 
             array (
                 'id' => 472,
-                'resource_id' => '06AMLAN_T2L2',
+                'resource_id' => '6AMLAN_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5209,7 +5209,7 @@ class ResourceLookupTableSeeder extends Seeder
             472 => 
             array (
                 'id' => 473,
-                'resource_id' => '06AMLA_G01',
+                'resource_id' => '6AMLA_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5220,7 +5220,7 @@ class ResourceLookupTableSeeder extends Seeder
             473 => 
             array (
                 'id' => 474,
-                'resource_id' => '06BACOL_T1L1',
+                'resource_id' => '6BACOL_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5231,7 +5231,7 @@ class ResourceLookupTableSeeder extends Seeder
             474 => 
             array (
                 'id' => 475,
-                'resource_id' => '06BACOL_T1L2',
+                'resource_id' => '6BACOL_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5242,7 +5242,7 @@ class ResourceLookupTableSeeder extends Seeder
             475 => 
             array (
                 'id' => 476,
-                'resource_id' => '06BACOL_T2L2',
+                'resource_id' => '6BACOL_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5253,7 +5253,7 @@ class ResourceLookupTableSeeder extends Seeder
             476 => 
             array (
                 'id' => 477,
-                'resource_id' => '06BACOL_T3L3',
+                'resource_id' => '6BACOL_T3L3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5264,7 +5264,7 @@ class ResourceLookupTableSeeder extends Seeder
             477 => 
             array (
                 'id' => 478,
-                'resource_id' => '06CADIZL_T1L1',
+                'resource_id' => '6CADIZL_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5275,7 +5275,7 @@ class ResourceLookupTableSeeder extends Seeder
             478 => 
             array (
                 'id' => 479,
-                'resource_id' => '06CADIZL_T1L2',
+                'resource_id' => '6CADIZL_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5286,7 +5286,7 @@ class ResourceLookupTableSeeder extends Seeder
             479 => 
             array (
                 'id' => 480,
-                'resource_id' => '06CADIZL_T1L3',
+                'resource_id' => '6CADIZL_T1L3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5297,7 +5297,7 @@ class ResourceLookupTableSeeder extends Seeder
             480 => 
             array (
                 'id' => 481,
-                'resource_id' => '06CARSOL_G01',
+                'resource_id' => '6CARSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5308,7 +5308,7 @@ class ResourceLookupTableSeeder extends Seeder
             481 => 
             array (
                 'id' => 482,
-                'resource_id' => '06CENPRI_U01',
+                'resource_id' => '6CENPRI_U01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5319,7 +5319,7 @@ class ResourceLookupTableSeeder extends Seeder
             482 => 
             array (
                 'id' => 483,
-                'resource_id' => '06CENPRI_U02',
+                'resource_id' => '6CENPRI_U02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5330,7 +5330,7 @@ class ResourceLookupTableSeeder extends Seeder
             483 => 
             array (
                 'id' => 484,
-                'resource_id' => '06CENPRI_U03',
+                'resource_id' => '6CENPRI_U03',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5341,7 +5341,7 @@ class ResourceLookupTableSeeder extends Seeder
             484 => 
             array (
                 'id' => 485,
-                'resource_id' => '06CENPRI_U04',
+                'resource_id' => '6CENPRI_U04',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5352,7 +5352,7 @@ class ResourceLookupTableSeeder extends Seeder
             485 => 
             array (
                 'id' => 486,
-                'resource_id' => '06FFHC_G01',
+                'resource_id' => '6FFHC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5363,7 +5363,7 @@ class ResourceLookupTableSeeder extends Seeder
             486 => 
             array (
                 'id' => 487,
-                'resource_id' => '06HELIOS_G01',
+                'resource_id' => '6HELIOS_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5374,7 +5374,7 @@ class ResourceLookupTableSeeder extends Seeder
             487 => 
             array (
                 'id' => 488,
-                'resource_id' => '06HELIOS_S01',
+                'resource_id' => '6HELIOS_S01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5385,7 +5385,7 @@ class ResourceLookupTableSeeder extends Seeder
             488 => 
             array (
                 'id' => 489,
-                'resource_id' => '06HPCO_G01',
+                'resource_id' => '6HPCO_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5396,7 +5396,7 @@ class ResourceLookupTableSeeder extends Seeder
             489 => 
             array (
                 'id' => 490,
-                'resource_id' => '06KABAN_T1L1',
+                'resource_id' => '6KABAN_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5407,7 +5407,7 @@ class ResourceLookupTableSeeder extends Seeder
             490 => 
             array (
                 'id' => 491,
-                'resource_id' => '06KABAN_T2L2',
+                'resource_id' => '6KABAN_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5418,7 +5418,7 @@ class ResourceLookupTableSeeder extends Seeder
             491 => 
             array (
                 'id' => 492,
-                'resource_id' => '06MABIN_T1L1',
+                'resource_id' => '6MABIN_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5429,7 +5429,7 @@ class ResourceLookupTableSeeder extends Seeder
             492 => 
             array (
                 'id' => 493,
-                'resource_id' => '06MABIN_T2L2',
+                'resource_id' => '6MABIN_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5440,7 +5440,7 @@ class ResourceLookupTableSeeder extends Seeder
             493 => 
             array (
                 'id' => 494,
-                'resource_id' => '06MANSOL_G01',
+                'resource_id' => '6MANSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5451,7 +5451,7 @@ class ResourceLookupTableSeeder extends Seeder
             494 => 
             array (
                 'id' => 495,
-                'resource_id' => '06MNTSOL_G01',
+                'resource_id' => '6MNTSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5462,7 +5462,7 @@ class ResourceLookupTableSeeder extends Seeder
             495 => 
             array (
                 'id' => 496,
-                'resource_id' => '06NASULO_G01',
+                'resource_id' => '6NASULO_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5473,7 +5473,7 @@ class ResourceLookupTableSeeder extends Seeder
             496 => 
             array (
                 'id' => 497,
-                'resource_id' => '06NNGPP_SS',
+                'resource_id' => '6NNGPP_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5484,7 +5484,7 @@ class ResourceLookupTableSeeder extends Seeder
             497 => 
             array (
                 'id' => 498,
-                'resource_id' => '06PAL1A_G01',
+                'resource_id' => '6PAL1A_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5495,7 +5495,7 @@ class ResourceLookupTableSeeder extends Seeder
             498 => 
             array (
                 'id' => 499,
-                'resource_id' => '06PAL1A_SS',
+                'resource_id' => '6PAL1A_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5506,7 +5506,7 @@ class ResourceLookupTableSeeder extends Seeder
             499 => 
             array (
                 'id' => 500,
-                'resource_id' => '06PAL2A_G01',
+                'resource_id' => '6PAL2A_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5519,7 +5519,7 @@ class ResourceLookupTableSeeder extends Seeder
             0 => 
             array (
                 'id' => 501,
-                'resource_id' => '06PAL2A_SS',
+                'resource_id' => '6PAL2A_SS',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5530,7 +5530,7 @@ class ResourceLookupTableSeeder extends Seeder
             1 => 
             array (
                 'id' => 502,
-                'resource_id' => '06PAL2A_U01',
+                'resource_id' => '6PAL2A_U01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5541,7 +5541,7 @@ class ResourceLookupTableSeeder extends Seeder
             2 => 
             array (
                 'id' => 503,
-                'resource_id' => '06PAL2A_U02',
+                'resource_id' => '6PAL2A_U02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5552,7 +5552,7 @@ class ResourceLookupTableSeeder extends Seeder
             3 => 
             array (
                 'id' => 504,
-                'resource_id' => '06PAL2A_U03',
+                'resource_id' => '6PAL2A_U03',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5563,7 +5563,7 @@ class ResourceLookupTableSeeder extends Seeder
             4 => 
             array (
                 'id' => 505,
-                'resource_id' => '06PAL2A_U04',
+                'resource_id' => '6PAL2A_U04',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5574,7 +5574,7 @@ class ResourceLookupTableSeeder extends Seeder
             5 => 
             array (
                 'id' => 506,
-                'resource_id' => '06SACASL_G01',
+                'resource_id' => '6SACASL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5585,7 +5585,7 @@ class ResourceLookupTableSeeder extends Seeder
             6 => 
             array (
                 'id' => 507,
-                'resource_id' => '06SACASL_G02',
+                'resource_id' => '6SACASL_G02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5596,7 +5596,7 @@ class ResourceLookupTableSeeder extends Seeder
             7 => 
             array (
                 'id' => 508,
-                'resource_id' => '06SACSUN_G01',
+                'resource_id' => '6SACSUN_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5607,7 +5607,7 @@ class ResourceLookupTableSeeder extends Seeder
             8 => 
             array (
                 'id' => 509,
-                'resource_id' => '06SCBE_G01',
+                'resource_id' => '6SCBE_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5618,7 +5618,7 @@ class ResourceLookupTableSeeder extends Seeder
             9 => 
             array (
                 'id' => 510,
-                'resource_id' => '06SLYSOL_G01',
+                'resource_id' => '6SLYSOL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5629,7 +5629,7 @@ class ResourceLookupTableSeeder extends Seeder
             10 => 
             array (
                 'id' => 511,
-                'resource_id' => '06URC_G01',
+                'resource_id' => '6URC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5640,7 +5640,7 @@ class ResourceLookupTableSeeder extends Seeder
             11 => 
             array (
                 'id' => 512,
-                'resource_id' => '06VMC_G01',
+                'resource_id' => '6VMC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5651,7 +5651,7 @@ class ResourceLookupTableSeeder extends Seeder
             12 => 
             array (
                 'id' => 513,
-                'resource_id' => '07BDPP_G01',
+                'resource_id' => '7BDPP_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5662,7 +5662,7 @@ class ResourceLookupTableSeeder extends Seeder
             13 => 
             array (
                 'id' => 514,
-                'resource_id' => '07BOHOL_T1L1',
+                'resource_id' => '7BOHOL_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5673,7 +5673,7 @@ class ResourceLookupTableSeeder extends Seeder
             14 => 
             array (
                 'id' => 515,
-                'resource_id' => '07BOHOL_T4L4',
+                'resource_id' => '7BOHOL_T4L4',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5684,7 +5684,7 @@ class ResourceLookupTableSeeder extends Seeder
             15 => 
             array (
                 'id' => 516,
-                'resource_id' => '07COREL_T1L1',
+                'resource_id' => '7COREL_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5695,7 +5695,7 @@ class ResourceLookupTableSeeder extends Seeder
             16 => 
             array (
                 'id' => 517,
-                'resource_id' => '07COREL_T1L2',
+                'resource_id' => '7COREL_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5706,7 +5706,7 @@ class ResourceLookupTableSeeder extends Seeder
             17 => 
             array (
                 'id' => 518,
-                'resource_id' => '07COREL_T1L3',
+                'resource_id' => '7COREL_T1L3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5717,7 +5717,7 @@ class ResourceLookupTableSeeder extends Seeder
             18 => 
             array (
                 'id' => 519,
-                'resource_id' => '07JANOPO_G01',
+                'resource_id' => '7JANOPO_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5728,7 +5728,7 @@ class ResourceLookupTableSeeder extends Seeder
             19 => 
             array (
                 'id' => 520,
-                'resource_id' => '07LOBOC_G01',
+                'resource_id' => '7LOBOC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5739,7 +5739,7 @@ class ResourceLookupTableSeeder extends Seeder
             20 => 
             array (
                 'id' => 521,
-                'resource_id' => '07UBAY_T1L1',
+                'resource_id' => '7UBAY_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5750,7 +5750,7 @@ class ResourceLookupTableSeeder extends Seeder
             21 => 
             array (
                 'id' => 522,
-                'resource_id' => '07UBAY_T2L2',
+                'resource_id' => '7UBAY_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5761,7 +5761,7 @@ class ResourceLookupTableSeeder extends Seeder
             22 => 
             array (
                 'id' => 523,
-                'resource_id' => '07UBAY_T3L3',
+                'resource_id' => '7UBAY_T3L3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5772,7 +5772,7 @@ class ResourceLookupTableSeeder extends Seeder
             23 => 
             array (
                 'id' => 524,
-                'resource_id' => '08AVON_G01',
+                'resource_id' => '8AVON_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5783,7 +5783,7 @@ class ResourceLookupTableSeeder extends Seeder
             24 => 
             array (
                 'id' => 525,
-                'resource_id' => '08BARTAC_L01',
+                'resource_id' => '8BARTAC_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5794,7 +5794,7 @@ class ResourceLookupTableSeeder extends Seeder
             25 => 
             array (
                 'id' => 526,
-                'resource_id' => '08CASA_G01',
+                'resource_id' => '8CASA_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5805,7 +5805,7 @@ class ResourceLookupTableSeeder extends Seeder
             26 => 
             array (
                 'id' => 527,
-                'resource_id' => '08COSMO_G01',
+                'resource_id' => '8COSMO_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5816,7 +5816,7 @@ class ResourceLookupTableSeeder extends Seeder
             27 => 
             array (
                 'id' => 528,
-                'resource_id' => '08DINGL_T1L1',
+                'resource_id' => '8DINGL_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5827,7 +5827,7 @@ class ResourceLookupTableSeeder extends Seeder
             28 => 
             array (
                 'id' => 529,
-                'resource_id' => '08DINGL_T1L2',
+                'resource_id' => '8DINGL_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5838,7 +5838,7 @@ class ResourceLookupTableSeeder extends Seeder
             29 => 
             array (
                 'id' => 530,
-                'resource_id' => '08DINGL_T1L3',
+                'resource_id' => '8DINGL_T1L3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5849,7 +5849,7 @@ class ResourceLookupTableSeeder extends Seeder
             30 => 
             array (
                 'id' => 531,
-                'resource_id' => '08DINGL_T1L4',
+                'resource_id' => '8DINGL_T1L4',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5860,7 +5860,7 @@ class ResourceLookupTableSeeder extends Seeder
             31 => 
             array (
                 'id' => 532,
-                'resource_id' => '08DINGL_T2L1',
+                'resource_id' => '8DINGL_T2L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5871,7 +5871,7 @@ class ResourceLookupTableSeeder extends Seeder
             32 => 
             array (
                 'id' => 533,
-                'resource_id' => '08DINGL_T2L2',
+                'resource_id' => '8DINGL_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5882,7 +5882,7 @@ class ResourceLookupTableSeeder extends Seeder
             33 => 
             array (
                 'id' => 534,
-                'resource_id' => '08GLOBAL_G01',
+                'resource_id' => '8GLOBAL_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5893,7 +5893,7 @@ class ResourceLookupTableSeeder extends Seeder
             34 => 
             array (
                 'id' => 535,
-                'resource_id' => '08GUIM_G01',
+                'resource_id' => '8GUIM_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5904,7 +5904,7 @@ class ResourceLookupTableSeeder extends Seeder
             35 => 
             array (
                 'id' => 536,
-                'resource_id' => '08NABAS_L01',
+                'resource_id' => '8NABAS_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5915,7 +5915,7 @@ class ResourceLookupTableSeeder extends Seeder
             36 => 
             array (
                 'id' => 537,
-                'resource_id' => '08NABAS_L02',
+                'resource_id' => '8NABAS_L02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5926,7 +5926,7 @@ class ResourceLookupTableSeeder extends Seeder
             37 => 
             array (
                 'id' => 538,
-                'resource_id' => '08NABAS_L03',
+                'resource_id' => '8NABAS_L03',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5937,7 +5937,7 @@ class ResourceLookupTableSeeder extends Seeder
             38 => 
             array (
                 'id' => 539,
-                'resource_id' => '08PALM_G01',
+                'resource_id' => '8PALM_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5948,7 +5948,7 @@ class ResourceLookupTableSeeder extends Seeder
             39 => 
             array (
                 'id' => 540,
-                'resource_id' => '08PALM_S01',
+                'resource_id' => '8PALM_S01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5959,7 +5959,7 @@ class ResourceLookupTableSeeder extends Seeder
             40 => 
             array (
                 'id' => 541,
-                'resource_id' => '08PANIT_PB',
+                'resource_id' => '8PANIT_PB',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -5970,7 +5970,7 @@ class ResourceLookupTableSeeder extends Seeder
             41 => 
             array (
                 'id' => 542,
-                'resource_id' => '08PANIT_T1L1',
+                'resource_id' => '8PANIT_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5981,7 +5981,7 @@ class ResourceLookupTableSeeder extends Seeder
             42 => 
             array (
                 'id' => 543,
-                'resource_id' => '08PANIT_T2L2',
+                'resource_id' => '8PANIT_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -5992,7 +5992,7 @@ class ResourceLookupTableSeeder extends Seeder
             43 => 
             array (
                 'id' => 544,
-                'resource_id' => '08PDPP3_C',
+                'resource_id' => '8PDPP3_C',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6003,7 +6003,7 @@ class ResourceLookupTableSeeder extends Seeder
             44 => 
             array (
                 'id' => 545,
-                'resource_id' => '08PDPP3_D',
+                'resource_id' => '8PDPP3_D',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6014,7 +6014,7 @@ class ResourceLookupTableSeeder extends Seeder
             45 => 
             array (
                 'id' => 546,
-                'resource_id' => '08PDPP3_E',
+                'resource_id' => '8PDPP3_E',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6025,7 +6025,7 @@ class ResourceLookupTableSeeder extends Seeder
             46 => 
             array (
                 'id' => 547,
-                'resource_id' => '08PDPP3_F',
+                'resource_id' => '8PDPP3_F',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6036,7 +6036,7 @@ class ResourceLookupTableSeeder extends Seeder
             47 => 
             array (
                 'id' => 548,
-                'resource_id' => '08PDPP3_G',
+                'resource_id' => '8PDPP3_G',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6047,7 +6047,7 @@ class ResourceLookupTableSeeder extends Seeder
             48 => 
             array (
                 'id' => 549,
-                'resource_id' => '08PDPP3_G01',
+                'resource_id' => '8PDPP3_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6058,7 +6058,7 @@ class ResourceLookupTableSeeder extends Seeder
             49 => 
             array (
                 'id' => 550,
-                'resource_id' => '08PDPP3_H',
+                'resource_id' => '8PDPP3_H',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6069,7 +6069,7 @@ class ResourceLookupTableSeeder extends Seeder
             50 => 
             array (
                 'id' => 551,
-                'resource_id' => '08PDPP3_S01',
+                'resource_id' => '8PDPP3_S01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6080,7 +6080,7 @@ class ResourceLookupTableSeeder extends Seeder
             51 => 
             array (
                 'id' => 552,
-                'resource_id' => '08PDPP_G01',
+                'resource_id' => '8PDPP_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6091,7 +6091,7 @@ class ResourceLookupTableSeeder extends Seeder
             52 => 
             array (
                 'id' => 553,
-                'resource_id' => '08PEDC_SS1',
+                'resource_id' => '8PEDC_SS1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6102,7 +6102,7 @@ class ResourceLookupTableSeeder extends Seeder
             53 => 
             array (
                 'id' => 554,
-                'resource_id' => '08PEDC_SS2',
+                'resource_id' => '8PEDC_SS2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6113,7 +6113,7 @@ class ResourceLookupTableSeeder extends Seeder
             54 => 
             array (
                 'id' => 555,
-                'resource_id' => '08PEDC_SS3',
+                'resource_id' => '8PEDC_SS3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6124,7 +6124,7 @@ class ResourceLookupTableSeeder extends Seeder
             55 => 
             array (
                 'id' => 556,
-                'resource_id' => '08PEDC_T1L1',
+                'resource_id' => '8PEDC_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6135,7 +6135,7 @@ class ResourceLookupTableSeeder extends Seeder
             56 => 
             array (
                 'id' => 557,
-                'resource_id' => '08PEDC_T1L2',
+                'resource_id' => '8PEDC_T1L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6146,7 +6146,7 @@ class ResourceLookupTableSeeder extends Seeder
             57 => 
             array (
                 'id' => 558,
-                'resource_id' => '08PEDC_U01',
+                'resource_id' => '8PEDC_U01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6157,7 +6157,7 @@ class ResourceLookupTableSeeder extends Seeder
             58 => 
             array (
                 'id' => 559,
-                'resource_id' => '08PEDC_U02',
+                'resource_id' => '8PEDC_U02',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6168,7 +6168,7 @@ class ResourceLookupTableSeeder extends Seeder
             59 => 
             array (
                 'id' => 560,
-                'resource_id' => '08PEDC_U03',
+                'resource_id' => '8PEDC_U03',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6179,7 +6179,7 @@ class ResourceLookupTableSeeder extends Seeder
             60 => 
             array (
                 'id' => 561,
-                'resource_id' => '08PPC_G01',
+                'resource_id' => '8PPC_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6190,7 +6190,7 @@ class ResourceLookupTableSeeder extends Seeder
             61 => 
             array (
                 'id' => 562,
-                'resource_id' => '08PWIND_G01',
+                'resource_id' => '8PWIND_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6201,7 +6201,7 @@ class ResourceLookupTableSeeder extends Seeder
             62 => 
             array (
                 'id' => 563,
-                'resource_id' => '08SLWIND_G01',
+                'resource_id' => '8SLWIND_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6212,7 +6212,7 @@ class ResourceLookupTableSeeder extends Seeder
             63 => 
             array (
                 'id' => 564,
-                'resource_id' => '08SNJOSE_L01',
+                'resource_id' => '8SNJOSE_L01',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6223,7 +6223,7 @@ class ResourceLookupTableSeeder extends Seeder
             64 => 
             array (
                 'id' => 565,
-                'resource_id' => '08SNJOSE_L02',
+                'resource_id' => '8SNJOSE_L02',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6234,7 +6234,7 @@ class ResourceLookupTableSeeder extends Seeder
             65 => 
             array (
                 'id' => 566,
-                'resource_id' => '08SNJOSE_L03',
+                'resource_id' => '8SNJOSE_L03',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6245,7 +6245,7 @@ class ResourceLookupTableSeeder extends Seeder
             66 => 
             array (
                 'id' => 567,
-                'resource_id' => '08STBAR_PB',
+                'resource_id' => '8STBAR_PB',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6256,7 +6256,7 @@ class ResourceLookupTableSeeder extends Seeder
             67 => 
             array (
                 'id' => 568,
-                'resource_id' => '08STBAR_PB2',
+                'resource_id' => '8STBAR_PB2',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,
@@ -6267,7 +6267,7 @@ class ResourceLookupTableSeeder extends Seeder
             68 => 
             array (
                 'id' => 569,
-                'resource_id' => '08STBAR_SS1',
+                'resource_id' => '8STBAR_SS1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6278,7 +6278,7 @@ class ResourceLookupTableSeeder extends Seeder
             69 => 
             array (
                 'id' => 570,
-                'resource_id' => '08STBAR_SS2',
+                'resource_id' => '8STBAR_SS2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6289,7 +6289,7 @@ class ResourceLookupTableSeeder extends Seeder
             70 => 
             array (
                 'id' => 571,
-                'resource_id' => '08STBAR_SS3',
+                'resource_id' => '8STBAR_SS3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6300,7 +6300,7 @@ class ResourceLookupTableSeeder extends Seeder
             71 => 
             array (
                 'id' => 572,
-                'resource_id' => '08STBAR_T1L1',
+                'resource_id' => '8STBAR_T1L1',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6311,7 +6311,7 @@ class ResourceLookupTableSeeder extends Seeder
             72 => 
             array (
                 'id' => 573,
-                'resource_id' => '08STBAR_T2L2',
+                'resource_id' => '8STBAR_T2L2',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6322,7 +6322,7 @@ class ResourceLookupTableSeeder extends Seeder
             73 => 
             array (
                 'id' => 574,
-                'resource_id' => '08STBAR_T3L3',
+                'resource_id' => '8STBAR_T3L3',
                 'region' => 'VISAYAS',
                 'type' => 'LD',
                 'is_mms_reserve' => 0,
@@ -6333,7 +6333,7 @@ class ResourceLookupTableSeeder extends Seeder
             74 => 
             array (
                 'id' => 575,
-                'resource_id' => '08SUWECO_G01',
+                'resource_id' => '8SUWECO_G01',
                 'region' => 'VISAYAS',
                 'type' => 'GEN',
                 'is_mms_reserve' => 0,

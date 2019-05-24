@@ -42,7 +42,7 @@
     <div id="app">
         <div class="container-fluid" style="height: 80px;">
             <div class="row">
-                <div class="col-lg-4"><a class="navbar-brand" href="#"><img src="{{ asset('img/vivant-logo.png')}}" alt="" height="60px"></a></div>
+                <div class="col-lg-4"><a class="navbar-brand" href="#"><img src="{{ asset('img/VEC.jpg')}}" alt="" height="60px" width="250px"></a></div>
                 <div class="col-lg-4"><br></div>
                 <div class="col-lg-4"><br><span class="pull-right"></span></div>
             </div>
@@ -66,7 +66,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Market Analysis<span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="{{ route('dap_schedules.list') }}">MMS Data</a></li>
-                                 <li><a href="{{ route('manual_downloader.rtd_lmp.index') }}">Manual Downloaders</a></li>
+                                 <!-- <li><a href="{{ route('manual_downloader.rtd_lmp.index') }}">Manual Downloaders</a></li> -->
                             </ul>
                         </li>
                         <li class="dropdown">

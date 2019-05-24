@@ -174,6 +174,7 @@
                     console.log('Error : '+error)
                 },
                 success : function(data){
+                    console.log(data);
                 	if (data !== null ) { 
 		                var resource='', html = '', x=0;
 		                html = '<tr>';

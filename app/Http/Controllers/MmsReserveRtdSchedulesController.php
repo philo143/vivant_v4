@@ -31,9 +31,11 @@ class MmsReserveRtdSchedulesController extends Controller
 
     public function resourceList(Request $request){
 
-        $resources = Resource::query()->whereHas('plant', function($q){
-            $q->where('is_aspa', '=', 1);
-        })->get();
+        // $resources = Resource::query()->whereHas('plant', function($q){
+        //     $q->where('is_aspa', '=', 1);
+        // })->get();
+        $resources = Resource::query()
+        ->get();
        return $resources;
     } //
 

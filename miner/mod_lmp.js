@@ -55,7 +55,7 @@ function hasClass( elem, klass ) {
 }
 
 // setTimeout(exitApp,120000) // 2 MINS TIMEOUT 
-var server_ip = '112.199.90.172';
+var server_ip = '203.177.47.90';
 var page = require('webpage').create();
 var system = require('system');
 var moment = require('../node_modules/moment');

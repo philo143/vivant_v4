@@ -58,12 +58,13 @@ function hasClass( elem, klass ) {
 var page = require('webpage').create();
 var system = require('system');
 var moment = require('../node_modules/moment');
-var args = system.args; // [participant] [cert_user:cert_pass] [datefrom or “last”] [dateto]
+var args = system.args; // [IP][participant] [cert_user:cert_pass] [datefrom or “last”] [dateto]
 var fs = require('fs'); // NODE FILESYSTEM
+var nmms_ip = args[1];
 var script_loc = fs.workingDirectory+"/miner/";
-var address = 'https://112.199.90.171/mpi/logon.do'; // [IP] TO FOLLOW NEED DYNAMIC IP
-var participant = args[1];
-var credentials = args[2].split(':');
+var address = 'https://'+nmms_ip+'/mpi/logon.do'; // [IP] TO FOLLOW NEED DYNAMIC IP
+var participant = args[2];
+var credentials = args[3].split(':');
 // TO SHOW CONSOLE MESSAGES //
 page.onConsoleMessage = function(msg, lineNum, sourceId) {
   console.log('CONSOLE: ' + msg + ' (from line #' + lineNum + ' in "' + sourceId + '")');

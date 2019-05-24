@@ -98,6 +98,9 @@
    		
    		
    });
+   $('#form_retrieve').on('click', function(e){
+      alert('try');
+   });
    </script>
 
 @stop

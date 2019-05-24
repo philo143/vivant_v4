@@ -51,10 +51,6 @@ class ResourcesLookupController extends Controller
 	        $query = $query->where('resource_lookup.is_mms_reserve', $is_mms_reserve);
 	      }
 
-
-	      
-
-
 	      $reports = $query->orderBy('resource_id','asc')->distinct()->get();
 
 	      return $reports;
