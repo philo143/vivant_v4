@@ -42,7 +42,7 @@
     <div id="app">
         <div class="container-fluid" style="height: 80px;">
             <div class="row">
-                <div class="col-lg-4"><a class="navbar-brand" href="#"><img src="{{ asset('img/VEC.jpg')}}" alt="" height="60px" width="250px"></a></div>
+                <div class="col-lg-4"><a class="navbar-brand" href="#"><img src="{{ asset('img/VEC.jpg')}}" alt="" height="60px" width="230px"></a></div>
                 <div class="col-lg-4"><br></div>
                 <div class="col-lg-4"><br><span class="pull-right"></span></div>
             </div>
