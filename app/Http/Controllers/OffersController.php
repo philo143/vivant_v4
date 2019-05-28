@@ -382,7 +382,7 @@ class OffersController extends Controller
                     .$participant_info->cert_file.' '
                     .$participant_info->cert_loc;
             $sender = new OfferSender;
-
+            // print_r($participant_info->cert_pass); die();
             // $return = $sender->sendParams($offer_id,$participant_info->cert_user,$participant_info->cert_pass,$participant_info->cert_file,$participant_info->cert_loc);
 
                       
