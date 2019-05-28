@@ -382,14 +382,13 @@ class OffersController extends Controller
                     .$participant_info->cert_file.' '
                     .$participant_info->cert_loc;
             $sender = new OfferSender;
-            // print_r($participant_info->cert_pass); die();
-            // $return = $sender->sendParams($offer_id,$participant_info->cert_user,$participant_info->cert_pass,$participant_info->cert_file,$participant_info->cert_loc);
+            $return = $sender->sendParams($offer_id,$participant_info->cert_user,$participant_info->cert_pass,$participant_info->cert_file,$participant_info->cert_loc);
 
                       
             // return $return;
             // $return = shell_exec(PHP_PATH.'/php '.MMS_SCRAPER_PATH.'/engine/rtem.php '.$args);
             // FOR TESTING ONLY
-            $return = "Success: 123456 for 01RESOURCE_U01 and 20180719 TESTING ONLY";
+            // $return = "Success: 123456 for 01RESOURCE_U01 and 20180719 TESTING ONLY";
            
             preg_match('/Success: (.*) for/' ,$return ,$response_trans_id);
             $response_trans_id = (trim($response_trans_id[1])!=='') ? $response_trans_id[1] : 'N/A - '.date("His");
