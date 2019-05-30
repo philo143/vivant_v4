@@ -68,7 +68,6 @@ class Kernel extends ConsoleKernel
             $cert_pem   =   base_path().$p['cert_loc']."/".$p['cert_file'].'.pem';
             $cert_key   =   base_path().$p['cert_loc']."/".$p['cert_file'].'.crt';
             $cert_pass  =   $p['cert_user'].':'.$p['cert_pass'];
-            print_r($cert_pass);die();
             // ALL IN ONE MINER (RTD,LMP,SCHED DAP,SCHED HAP) args [IP] [participant] [cert_user:cert_pass]
             $schedule->exec('env TZ="Asia/Manila" phantomjs --config=miner/config.json --ssl-client-certificate-file='.$cert_key.' --ssl-client-key-file='.$cert_pem.'  miner/nmms_miner.js '.$nmms_ip['ip_address'].' '.$name.' '.$cert_pass)->everyMinute()->withoutOverlapping()->sendOutputTo(base_path()."/miner/miner_".$name."_log.log");
         }
