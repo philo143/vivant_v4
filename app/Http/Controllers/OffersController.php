@@ -236,7 +236,6 @@ class OffersController extends Controller
             $b_compressed = $offer_parser->compressFormat($b_arr);
             $bid_arr = $b_compressed;
             $xml = $offer_parser->convertToXML('DEFAULT', 'DEFAULT', $bid_arr);
-
         }
         //Always process with xml format     
         $xml_ref = $xml;

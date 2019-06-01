@@ -19,6 +19,7 @@ class OfferSender {
         return $return;
     }
     private function submitXml($p){
+        $path = base_path($p['cert_loc']).'/'.$p['cert_file'].'.pem';
         $nmms_ip = IpTable::where(['status'=>'1','type'=>'mms'])->first()->toArray();
         $ip = $nmms_ip['ip_address'];
         $url = 'https://'.$ip.'/SiemensServices/SAFServiceImpl'; // to follow ip changer
@@ -32,9 +33,10 @@ class OfferSender {
             'verify' => false,  
             'http_errors' => false          
         ]);
-    
+        
         $response = $guzzleClient->request('POST',$url,array('body'=>$p['xml']));
         $res = $response->getBody()->getContents();
+        dd($res);
         preg_match('/<Message>(.*?)<\/Message>/', $res, $matches);
         return $matches[1];
     }
