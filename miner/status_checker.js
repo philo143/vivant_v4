@@ -1,4 +1,3 @@
-// status checker
 var page = require('webpage').create();
 var system = require('system');
 var os = system.os;
