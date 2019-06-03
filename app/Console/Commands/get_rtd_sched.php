@@ -42,8 +42,8 @@ class get_rtd_sched extends Command
     public function handle()
     {
         //TEST FOR RTD GRID DASHBOARD WIDGET
-        $dt = Carbon::createFromTimestamp(ceil(time() / 300) * 300)->subMinutes(5); // added subMinutes to match nmms late data. remove this when nmms fixed their data
-        $dt_from = Carbon::createFromTimestamp(ceil(time() / 300) * 300)->subMinutes(9); // subtract 4 minutes only. change after nmms fixed their data         
+        $dt = Carbon::createFromTimestamp(ceil(time() / 300) * 300); // added subMinutes to match nmms late data. remove this when nmms fixed their data
+        $dt_from = Carbon::createFromTimestamp(ceil(time() / 300) * 300)->subMinutes(4); // subtract 4 minutes only. change after nmms fixed their data         
         $resources = UserWidget::whereNotNull('resources_id')->with('resources')->get();
         foreach($resources as $resource){
             $rtd = MmsModRtd::where(['date'=>Date('Y-m-d'),'interval'=>$dt,'price_node'=>$resource->resources->resource_id])->first();
